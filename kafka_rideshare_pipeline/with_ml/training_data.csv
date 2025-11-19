@@ -1,0 +1,731 @@
+trip_id,driver_id,passenger_count,city,pickup_location,dropoff_location,distance_km,duration_minutes,fare,tip,total_amount,payment_method,vehicle_type,driver_rating,status,timestamp
+f16c5359,DRV-3088,4,Chicago,O'Hare Airport,River North,32.53,137,56.81,3.32,60.13,Cash,Electric,4.81,In Progress,2025-11-17 17:07:54.318118
+abec2750,DRV-3274,3,San Francisco,SFO Airport,Fisherman's Wharf,3.25,9,12.72,9.07,21.79,Debit Card,Economy,4.55,Completed,2025-11-17 17:07:53.022526
+e91596ec,DRV-8747,1,Chicago,O'Hare Airport,River North,17.02,52,53.02,6.16,59.18,Debit Card,Economy,4.85,In Progress,2025-11-17 17:07:51.126784
+5c196c39,DRV-3997,1,Miami,Brickell,Downtown,6.0,23,38.9,0.0,38.9,Debit Card,Comfort,4.91,In Progress,2025-11-17 17:07:49.482275
+48862568,DRV-8575,3,Los Angeles,Santa Monica,LAX Airport,27.42,73,60.68,3.16,63.84,Credit Card,Electric,4.6,Completed,2025-11-17 17:07:47.959180
+a53673e6,DRV-8340,4,Miami,Coral Gables,Brickell,5.09,19,14.35,5.22,19.57,Credit Card,SUV,4.75,In Progress,2025-11-17 17:07:47.076209
+78ba7440,DRV-8956,2,Miami,Wynwood,South Beach,27.63,111,118.13,3.17,121.3,Digital Wallet,Premium,4.93,In Progress,2025-11-17 17:07:46.293465
+209f6490,DRV-7681,3,Los Angeles,Beverly Hills,Downtown,4.73,18,14.02,7.58,21.6,Credit Card,Electric,4.56,Cancelled,2025-11-17 17:07:45.329136
+dffbf290,DRV-9330,2,Los Angeles,Downtown,Hollywood,18.66,83,41.39,3.19,44.58,Credit Card,Electric,4.81,In Progress,2025-11-17 17:07:44.185184
+ec801498,DRV-6862,4,Chicago,Navy Pier,River North,2.67,11,20.13,5.33,25.46,Credit Card,Electric,4.69,Completed,2025-11-17 17:07:42.721705
+a37d9482,DRV-7480,3,San Francisco,Financial District,Fisherman's Wharf,29.64,79,91.12,6.53,97.65,Debit Card,SUV,4.91,Completed,2025-11-17 17:07:41.735715
+ca8aa8a6,DRV-8871,3,San Francisco,Downtown,SFO Airport,23.44,95,41.24,0.0,41.24,Corporate Account,Electric,4.94,Cancelled,2025-11-17 17:07:40.199732
+e14b7207,DRV-8886,3,Chicago,Navy Pier,Loop,5.0,20,16.7,0.0,16.7,Cash,Premium,4.67,Cancelled,2025-11-17 17:07:39.626825
+ca04ed8e,DRV-8163,3,New York,Staten Island,Manhattan,19.0,83,43.45,0.0,43.45,Credit Card,Economy,4.94,Cancelled,2025-11-17 17:07:38.314982
+27db4010,DRV-4396,2,Miami,Wynwood,South Beach,26.55,73,72.96,0.0,72.96,Cash,Electric,4.5,In Progress,2025-11-17 17:07:36.885567
+c049fd23,DRV-5301,4,Miami,Coral Gables,Wynwood,20.28,73,39.82,9.36,49.18,Credit Card,Economy,4.8,In Progress,2025-11-17 17:07:35.394906
+e367aa73,DRV-4595,1,Los Angeles,Downtown,LAX Airport,11.52,47,23.0,2.64,25.64,Debit Card,Comfort,4.87,In Progress,2025-11-17 17:07:33.616980
+e5ddad81,DRV-9740,2,Los Angeles,Santa Monica,Beverly Hills,13.24,51,29.72,4.16,33.88,Credit Card,Electric,4.95,In Progress,2025-11-17 17:07:32.088396
+05f6b5a2,DRV-4022,1,Chicago,Wicker Park,River North,29.35,112,73.61,0.0,73.61,Corporate Account,Electric,4.59,Completed,2025-11-17 17:07:31.484117
+48d7edc6,DRV-7973,2,Miami,Wynwood,Brickell,8.71,26,19.11,0.0,19.11,Cash,Economy,4.56,Cancelled,2025-11-17 17:07:30.160339
+69d520bd,DRV-4697,2,Los Angeles,Downtown,Beverly Hills,10.72,40,30.56,0.0,30.56,Credit Card,Premium,4.77,Cancelled,2025-11-17 17:07:28.273959
+5c84db85,DRV-6343,3,Los Angeles,Hollywood,Beverly Hills,16.99,71,49.92,6.53,56.45,Cash,Electric,4.53,In Progress,2025-11-17 17:07:26.601058
+b91a6824,DRV-6187,2,Miami,Brickell,South Beach,29.26,104,74.64,9.42,84.06,Digital Wallet,Economy,4.51,Cancelled,2025-11-17 17:07:25.197017
+f94fd243,DRV-3212,3,New York,JFK Airport,Bronx,2.51,10,10.99,0.0,10.99,Digital Wallet,Comfort,4.67,In Progress,2025-11-17 17:07:24.124131
+047f9e43,DRV-6962,4,San Francisco,Financial District,Marina,34.97,156,73.66,0.0,73.66,Cash,Premium,4.87,Cancelled,2025-11-17 17:07:22.523877
+3f468b29,DRV-2429,2,Miami,Wynwood,South Beach,19.91,54,59.71,8.64,68.35,Digital Wallet,Economy,4.71,Completed,2025-11-17 17:07:21.398256
+951e38e2,DRV-7822,1,Chicago,O'Hare Airport,Wicker Park,18.89,50,43.68,0.0,43.68,Corporate Account,Comfort,4.51,Completed,2025-11-17 17:07:19.442681
+80d1801e,DRV-9011,2,Los Angeles,Downtown,Beverly Hills,4.51,15,17.46,9.62,27.08,Cash,Economy,4.72,Completed,2025-11-17 17:07:18.207838
+e31455f8,DRV-6354,1,San Francisco,Fisherman's Wharf,SFO Airport,11.24,44,35.96,0.0,35.96,Debit Card,Premium,4.63,Cancelled,2025-11-17 17:07:17.564589
+5246511d,DRV-7715,2,Chicago,Loop,Lincoln Park,4.52,12,16.53,2.22,18.75,Digital Wallet,Premium,4.53,In Progress,2025-11-17 17:07:16.119267
+8878b6a3,DRV-1215,3,San Francisco,Financial District,SFO Airport,25.76,84,73.05,6.29,79.34,Digital Wallet,Comfort,4.91,Cancelled,2025-11-17 17:07:15.597456
+1946e9a9,DRV-4266,2,Miami,South Beach,Downtown,5.09,19,14.27,8.31,22.58,Corporate Account,Economy,4.85,Cancelled,2025-11-17 17:07:14.344568
+9d9c5414,DRV-8448,1,Chicago,Navy Pier,River North,32.81,113,59.58,4.84,64.42,Digital Wallet,SUV,4.85,Completed,2025-11-17 17:07:12.921198
+00428698,DRV-6701,2,Miami,Coral Gables,Brickell,8.37,36,21.01,9.38,30.39,Digital Wallet,Premium,4.87,Cancelled,2025-11-17 17:07:12.073262
+1143e77e,DRV-9786,3,New York,Brooklyn,JFK Airport,10.19,28,30.49,8.68,39.17,Credit Card,Comfort,4.99,Cancelled,2025-11-17 17:07:11.435379
+cfb667a7,DRV-7113,2,Los Angeles,LAX Airport,Beverly Hills,19.85,60,49.71,9.12,58.83,Corporate Account,Economy,4.57,Cancelled,2025-11-17 17:07:10.524025
+ebfa3486,DRV-1979,1,San Francisco,Mission District,Fisherman's Wharf,9.31,31,31.23,4.68,35.91,Cash,SUV,4.96,Completed,2025-11-17 17:07:08.690267
+0039f1c1,DRV-1564,1,New York,Bronx,LaGuardia Airport,28.25,77,56.82,0.0,56.82,Digital Wallet,Economy,4.67,In Progress,2025-11-17 17:07:07.364903
+564caf79,DRV-3956,4,Los Angeles,Hollywood,Downtown,22.96,99,161.39,9.85,171.24,Cash,SUV,4.58,Cancelled,2025-11-17 17:07:06.661726
+c1f06dbc,DRV-9516,1,New York,Brooklyn,Staten Island,6.63,25,37.05,2.53,39.58,Debit Card,SUV,4.95,In Progress,2025-11-17 17:07:05.052690
+30aba9bb,DRV-4361,2,Chicago,Loop,O'Hare Airport,11.06,48,36.26,9.05,45.31,Cash,Comfort,4.71,Cancelled,2025-11-17 17:07:04.023173
+f7cef41e,DRV-9079,2,New York,Brooklyn,Staten Island,21.03,88,38.71,9.6,48.31,Debit Card,Comfort,4.64,Completed,2025-11-17 17:07:02.469565
+efcc198a,DRV-1716,1,San Francisco,Financial District,Mission District,9.55,34,32.1,6.68,38.78,Digital Wallet,Premium,4.63,Cancelled,2025-11-17 17:07:01.495061
+d5c3158a,DRV-2169,2,Chicago,River North,Wicker Park,5.78,16,15.93,5.14,21.07,Cash,SUV,4.73,Cancelled,2025-11-17 17:07:00.284794
+8e0f4733,DRV-2800,3,San Francisco,Fisherman's Wharf,Downtown,4.44,13,17.83,8.68,26.51,Corporate Account,Economy,4.51,Completed,2025-11-17 17:06:59.328315
+9774eb07,DRV-2051,3,San Francisco,Mission District,Marina,6.39,24,21.47,6.73,28.2,Corporate Account,Comfort,4.99,In Progress,2025-11-17 17:06:58.666788
+40769470,DRV-8081,4,Los Angeles,Downtown,Beverly Hills,6.51,23,16.27,0.0,16.27,Cash,Comfort,4.52,In Progress,2025-11-17 17:06:57.451585
+5d86f1cf,DRV-5014,1,San Francisco,Financial District,Fisherman's Wharf,23.18,73,132.39,0.0,132.39,Cash,Electric,4.7,Cancelled,2025-11-17 17:06:56.244190
+2458136a,DRV-6433,1,Chicago,River North,O'Hare Airport,7.78,34,27.56,6.08,33.64,Credit Card,Premium,4.87,Cancelled,2025-11-17 17:06:55.061307
+08734207,DRV-3043,4,Los Angeles,Hollywood,Venice Beach,11.82,37,39.77,4.21,43.98,Credit Card,Economy,4.56,In Progress,2025-11-17 17:06:53.710873
+5319ea44,DRV-4842,4,Chicago,River North,Lincoln Park,24.63,67,67.43,8.41,75.84,Cash,Electric,4.5,Completed,2025-11-17 17:06:52.272839
+17835cdf,DRV-6093,3,New York,LaGuardia Airport,Manhattan,6.47,20,18.37,6.34,24.71,Credit Card,SUV,4.93,In Progress,2025-11-17 17:06:50.701576
+6973167a,DRV-2237,4,New York,Staten Island,Manhattan,2.53,8,10.48,2.99,13.47,Debit Card,Electric,4.68,In Progress,2025-11-17 17:06:49.687508
+17c2652e,DRV-7668,4,Los Angeles,Venice Beach,Santa Monica,19.61,65,57.95,8.97,66.92,Corporate Account,Electric,4.51,In Progress,2025-11-17 17:06:47.893074
+4e8d3e55,DRV-6351,3,Miami,Downtown,South Beach,19.77,78,62.2,0.0,62.2,Cash,Economy,4.65,Completed,2025-11-17 17:06:46.397435
+4364da18,DRV-5230,2,Chicago,Lincoln Park,Navy Pier,33.71,115,58.17,4.6,62.77,Cash,SUV,4.86,Cancelled,2025-11-17 17:06:44.775726
+7f9e9023,DRV-7045,3,Los Angeles,Venice Beach,Beverly Hills,5.59,21,15.27,0.0,15.27,Debit Card,Economy,4.81,Cancelled,2025-11-17 17:06:44.144280
+9ea72dc0,DRV-9239,2,New York,Bronx,LaGuardia Airport,16.85,43,55.18,0.0,55.18,Cash,Comfort,4.71,In Progress,2025-11-17 17:06:43.218704
+9114019f,DRV-2043,2,Chicago,Loop,Navy Pier,23.15,103,59.33,5.03,64.36,Digital Wallet,SUV,4.52,Cancelled,2025-11-17 17:06:42.689195
+cbe2b124,DRV-4759,4,Chicago,Navy Pier,Loop,16.43,63,44.3,0.0,44.3,Corporate Account,Electric,4.78,In Progress,2025-11-17 17:06:41.117150
+e57d1f35,DRV-5442,2,New York,Brooklyn,Manhattan,12.08,43,38.87,0.0,38.87,Cash,Economy,4.55,Completed,2025-11-17 17:06:40.145463
+96b8052a,DRV-3415,2,New York,Manhattan,JFK Airport,13.01,41,78.73,9.0,87.73,Debit Card,Economy,4.74,In Progress,2025-11-17 17:06:39.553040
+05ebbc72,DRV-4477,1,Miami,MIA Airport,South Beach,9.37,39,21.4,0.0,21.4,Corporate Account,SUV,4.66,Cancelled,2025-11-17 17:06:37.864186
+02de0c5d,DRV-9458,1,New York,JFK Airport,LaGuardia Airport,4.7,14,18.76,7.03,25.79,Debit Card,Comfort,4.87,In Progress,2025-11-17 17:06:35.912750
+eb04271b,DRV-8056,3,Chicago,Loop,Lincoln Park,2.39,6,19.86,2.73,22.59,Credit Card,Economy,4.5,Completed,2025-11-17 17:06:34.924469
+7feb8132,DRV-7560,3,Los Angeles,Beverly Hills,LAX Airport,29.93,106,61.6,2.86,64.46,Corporate Account,SUV,4.64,Completed,2025-11-17 17:06:32.994082
+2ed141de,DRV-4053,4,Los Angeles,LAX Airport,Downtown,28.17,96,86.98,3.98,90.96,Cash,Premium,4.79,Completed,2025-11-17 17:06:32.104095
+d915a95e,DRV-8816,1,Miami,MIA Airport,Downtown,9.61,29,23.48,0.0,23.48,Credit Card,Economy,4.57,Cancelled,2025-11-17 17:06:30.240328
+f8ec3c90,DRV-7468,1,Chicago,Navy Pier,Loop,25.88,77,65.82,2.19,68.01,Cash,SUV,4.72,Completed,2025-11-17 17:06:29.258018
+945b9235,DRV-2735,3,New York,LaGuardia Airport,Manhattan,19.5,78,41.09,5.97,47.06,Credit Card,Electric,4.5,Completed,2025-11-17 17:06:27.457567
+4bc9cac9,DRV-5075,4,Chicago,Lincoln Park,Navy Pier,32.41,138,92.3,7.9,100.2,Debit Card,Comfort,4.74,In Progress,2025-11-17 17:06:26.238436
+84ecf15f,DRV-8788,2,Los Angeles,Downtown,Hollywood,18.12,62,128.46,0.0,128.46,Debit Card,SUV,4.87,Cancelled,2025-11-17 17:06:24.648544
+fc192130,DRV-1984,3,San Francisco,SFO Airport,Fisherman's Wharf,21.06,62,39.71,2.45,42.16,Debit Card,SUV,4.61,Completed,2025-11-17 17:06:23.350249
+d159aa0a,DRV-1771,3,Los Angeles,Venice Beach,Santa Monica,33.83,91,65.11,7.74,72.85,Digital Wallet,Comfort,4.61,Completed,2025-11-17 17:06:22.016364
+9f1baf64,DRV-9177,4,Los Angeles,Beverly Hills,Venice Beach,25.83,79,68.32,2.7,71.02,Corporate Account,SUV,4.97,In Progress,2025-11-17 17:06:20.849283
+bba0b07f,DRV-5147,1,Chicago,Wicker Park,Loop,28.75,73,57.05,7.69,64.74,Credit Card,Electric,4.57,In Progress,2025-11-17 17:06:18.907652
+1490e254,DRV-3010,2,New York,Brooklyn,Queens,4.7,18,12.1,6.84,18.94,Corporate Account,Economy,4.54,Cancelled,2025-11-17 17:06:17.360425
+30f6395a,DRV-8709,1,Los Angeles,Hollywood,Downtown,16.45,63,32.55,5.73,38.28,Cash,Premium,4.74,Completed,2025-11-17 17:06:16.644643
+940c65bc,DRV-7714,3,New York,Bronx,Manhattan,17.53,53,46.02,7.3,53.32,Credit Card,Premium,5.0,Cancelled,2025-11-17 17:06:15.319083
+fd0abe0e,DRV-2069,2,New York,Staten Island,Queens,23.86,94,65.09,7.04,72.13,Corporate Account,Economy,4.68,Cancelled,2025-11-17 17:06:13.890380
+d077e0ce,DRV-7714,1,Los Angeles,Venice Beach,LAX Airport,20.57,80,66.37,6.98,73.35,Cash,Comfort,4.6,Cancelled,2025-11-17 17:06:12.269264
+b2b0aa57,DRV-1166,1,Los Angeles,Venice Beach,Hollywood,23.73,85,71.87,4.81,76.68,Credit Card,Economy,4.71,In Progress,2025-11-17 17:06:11.140283
+9cf7db30,DRV-5556,2,Los Angeles,Beverly Hills,Downtown,32.35,117,58.15,2.6,60.75,Debit Card,SUV,4.82,In Progress,2025-11-17 17:06:09.352462
+867d302c,DRV-2940,1,New York,Staten Island,LaGuardia Airport,28.63,72,192.37,0.0,192.37,Cash,Comfort,4.64,In Progress,2025-11-17 17:06:08.449188
+0d5e289a,DRV-2466,3,Chicago,Navy Pier,O'Hare Airport,13.17,34,27.68,0.0,27.68,Credit Card,SUV,4.93,Completed,2025-11-17 17:06:07.065984
+97a3cfd7,DRV-4174,2,Chicago,Lincoln Park,O'Hare Airport,22.76,59,51.37,5.74,57.11,Corporate Account,Premium,4.71,Completed,2025-11-17 17:06:05.831185
+dc8817e4,DRV-9075,1,Chicago,O'Hare Airport,River North,29.83,98,63.5,9.14,72.64,Credit Card,Premium,4.69,In Progress,2025-11-17 17:06:04.711499
+078eb19a,DRV-5781,2,New York,JFK Airport,LaGuardia Airport,3.81,15,14.06,8.72,22.78,Digital Wallet,SUV,4.78,Completed,2025-11-17 17:06:02.797810
+ff0cd6b4,DRV-8116,3,San Francisco,Downtown,Marina,22.23,66,66.58,5.71,72.29,Corporate Account,Comfort,4.94,In Progress,2025-11-17 17:06:01.357217
+3224e0e9,DRV-1291,3,New York,Manhattan,Queens,10.97,43,33.16,0.0,33.16,Corporate Account,Electric,4.86,In Progress,2025-11-17 17:06:00.781412
+961a0b39,DRV-3375,1,Chicago,Wicker Park,O'Hare Airport,20.29,67,45.02,9.81,54.83,Digital Wallet,Economy,4.83,Completed,2025-11-17 17:05:59.375543
+535f3e0f,DRV-3843,4,Miami,Brickell,South Beach,28.84,82,66.66,4.35,71.01,Corporate Account,Electric,4.75,Cancelled,2025-11-17 17:05:57.894303
+ef2bf52f,DRV-1805,4,Miami,South Beach,Downtown,12.0,38,54.98,9.1,64.08,Debit Card,Electric,4.75,In Progress,2025-11-17 17:05:55.973039
+0590e0c2,DRV-3492,2,San Francisco,Financial District,Fisherman's Wharf,22.9,98,43.64,4.15,47.79,Credit Card,Premium,4.5,Completed,2025-11-17 17:05:54.944867
+6bb00de3,DRV-8168,3,New York,Staten Island,Queens,4.31,16,17.53,3.21,20.74,Credit Card,Economy,4.74,In Progress,2025-11-17 17:05:53.523700
+6d2788e1,DRV-6704,1,Miami,Brickell,Coral Gables,26.46,111,70.38,6.86,77.24,Digital Wallet,Electric,4.95,Completed,2025-11-17 17:05:52.062824
+f9cfafeb,DRV-6345,4,Los Angeles,Santa Monica,Venice Beach,11.28,36,36.65,2.38,39.03,Credit Card,Comfort,4.65,Completed,2025-11-17 17:05:51.028735
+00dddc58,DRV-3110,3,Chicago,Loop,Navy Pier,16.3,57,47.54,0.0,47.54,Cash,Premium,4.6,In Progress,2025-11-17 17:05:50.055730
+4d3a7615,DRV-8266,3,Miami,Coral Gables,Downtown,17.93,53,39.21,5.75,44.96,Corporate Account,Economy,4.6,Cancelled,2025-11-17 17:05:49.098197
+7b05ba1f,DRV-4713,3,San Francisco,Fisherman's Wharf,Marina,34.08,146,74.93,0.0,74.93,Corporate Account,Economy,4.63,Completed,2025-11-17 17:05:47.460870
+f7440067,DRV-9435,2,New York,Queens,Bronx,13.27,37,32.21,8.87,41.08,Cash,SUV,4.74,Completed,2025-11-17 17:05:46.122245
+bd046ca6,DRV-9536,3,New York,LaGuardia Airport,Brooklyn,6.81,29,25.2,7.57,32.77,Debit Card,Premium,4.85,Completed,2025-11-17 17:05:45.329161
+ad63d159,DRV-8595,3,Los Angeles,Downtown,Santa Monica,6.5,20,21.46,5.29,26.75,Digital Wallet,Comfort,4.69,Cancelled,2025-11-17 17:05:44.805166
+5897b286,DRV-1342,2,Chicago,O'Hare Airport,Navy Pier,31.97,125,55.69,0.0,55.69,Credit Card,Premium,4.73,Completed,2025-11-17 17:05:43.240898
+f377c8ad,DRV-2860,1,Miami,South Beach,Coral Gables,6.97,26,24.32,4.47,28.79,Credit Card,Economy,4.77,In Progress,2025-11-17 17:05:41.724404
+4e8575f3,DRV-5797,4,Miami,Brickell,MIA Airport,15.59,46,48.85,6.29,55.14,Cash,Comfort,4.52,Completed,2025-11-17 17:05:40.213299
+99eab7b2,DRV-5752,1,Miami,Wynwood,Brickell,34.58,105,107.78,5.27,113.05,Debit Card,SUV,4.64,Completed,2025-11-17 17:05:38.652592
+669fd1d9,DRV-8222,4,Los Angeles,Santa Monica,Beverly Hills,9.41,36,19.34,2.46,21.8,Credit Card,Premium,4.59,Cancelled,2025-11-17 17:05:36.956876
+da5234fc,DRV-9437,2,Los Angeles,Santa Monica,Venice Beach,23.24,59,46.37,2.83,49.2,Corporate Account,Comfort,4.69,Completed,2025-11-17 17:05:35.882557
+12484500,DRV-4883,2,San Francisco,Financial District,Marina,24.18,64,59.02,3.22,62.24,Corporate Account,Economy,4.87,Cancelled,2025-11-17 17:05:34.602909
+897278f4,DRV-5951,3,Chicago,River North,Loop,18.95,50,53.75,8.22,61.97,Credit Card,Premium,4.78,In Progress,2025-11-17 17:05:34.065226
+b2211fdc,DRV-9781,4,Los Angeles,Downtown,Beverly Hills,25.37,106,159.59,0.0,159.59,Credit Card,Electric,4.67,Cancelled,2025-11-17 17:05:32.744204
+aba1af0c,DRV-7430,4,New York,Staten Island,Manhattan,4.4,18,13.7,2.89,16.59,Corporate Account,Comfort,4.96,Completed,2025-11-17 17:05:31.287205
+e86876e7,DRV-8730,3,San Francisco,Downtown,Fisherman's Wharf,6.55,18,15.59,2.68,18.27,Digital Wallet,Premium,4.87,Completed,2025-11-17 17:05:29.398388
+5a8c360b,DRV-1928,4,Chicago,O'Hare Airport,River North,23.62,62,148.01,5.93,153.94,Debit Card,SUV,4.82,Completed,2025-11-17 17:05:27.504041
+4ed9af2f,DRV-7550,2,San Francisco,Downtown,Financial District,2.67,6,11.01,0.0,11.01,Cash,Electric,4.84,Cancelled,2025-11-17 17:05:26.299420
+a9603b3b,DRV-2752,2,San Francisco,Fisherman's Wharf,SFO Airport,13.71,45,33.14,7.33,40.47,Corporate Account,Comfort,4.68,In Progress,2025-11-17 17:05:24.446631
+ad7f3418,DRV-4917,2,Los Angeles,Hollywood,Downtown,22.84,69,66.27,8.63,74.9,Cash,Electric,4.7,Completed,2025-11-17 17:05:22.456849
+eb98e5f6,DRV-8617,3,San Francisco,Mission District,Marina,7.43,30,51.7,7.14,58.84,Credit Card,SUV,4.8,Cancelled,2025-11-17 17:05:21.604872
+a8846d0e,DRV-2471,2,Chicago,Navy Pier,O'Hare Airport,12.6,45,30.73,5.46,36.19,Credit Card,SUV,4.83,Cancelled,2025-11-17 17:05:20.203824
+60e626ec,DRV-4204,3,Miami,South Beach,Brickell,29.31,110,82.18,0.0,82.18,Digital Wallet,Economy,4.89,Completed,2025-11-17 17:05:18.566292
+c66d99b7,DRV-6830,3,New York,Brooklyn,JFK Airport,21.55,54,46.81,2.29,49.1,Debit Card,Electric,4.51,Cancelled,2025-11-17 17:05:16.903054
+001376e7,DRV-7988,2,New York,Staten Island,Bronx,15.27,50,42.18,0.0,42.18,Credit Card,Premium,4.96,Cancelled,2025-11-17 17:05:15.323510
+7af7c930,DRV-3963,3,San Francisco,SFO Airport,Financial District,22.94,58,62.09,8.96,71.05,Corporate Account,Premium,4.5,Completed,2025-11-17 17:05:14.028171
+11dc781a,DRV-2106,4,New York,Bronx,Brooklyn,27.57,84,77.93,0.0,77.93,Corporate Account,Electric,4.8,Completed,2025-11-17 17:05:12.261788
+31014f02,DRV-6058,3,New York,Bronx,Queens,29.68,126,80.91,0.0,80.91,Corporate Account,Electric,4.92,Completed,2025-11-17 17:05:10.544661
+bba99e22,DRV-7689,3,San Francisco,Downtown,Mission District,15.24,41,46.94,8.02,54.96,Credit Card,SUV,4.78,In Progress,2025-11-17 17:05:09.212192
+57b56199,DRV-7867,1,Los Angeles,Hollywood,Downtown,11.98,39,33.59,0.0,33.59,Digital Wallet,Comfort,4.8,In Progress,2025-11-17 17:05:07.426836
+674e4f6a,DRV-5228,3,Chicago,Navy Pier,Lincoln Park,17.55,68,48.14,0.0,48.14,Cash,Comfort,4.76,Completed,2025-11-17 17:05:05.591780
+e9a15442,DRV-9360,4,New York,Staten Island,LaGuardia Airport,10.31,35,26.61,5.91,32.52,Credit Card,Economy,4.83,Cancelled,2025-11-17 17:05:03.908110
+ae5f2ad4,DRV-8183,3,San Francisco,Marina,Mission District,12.14,48,29.23,0.0,29.23,Digital Wallet,Comfort,4.99,In Progress,2025-11-17 17:05:02.242723
+d0072fe1,DRV-4673,4,San Francisco,Downtown,Mission District,17.8,55,48.6,0.0,48.6,Digital Wallet,Comfort,4.79,Cancelled,2025-11-17 17:05:00.893328
+d4bc4ad4,DRV-9726,4,Chicago,O'Hare Airport,Lincoln Park,12.97,45,35.79,0.0,35.79,Corporate Account,Premium,4.55,In Progress,2025-11-17 17:04:59.429648
+2546f950,DRV-1039,2,San Francisco,Fisherman's Wharf,Marina,19.43,64,50.29,0.0,50.29,Digital Wallet,Economy,4.82,Completed,2025-11-17 17:04:58.852036
+9b56424b,DRV-7441,4,San Francisco,Financial District,Fisherman's Wharf,8.42,27,19.97,7.04,27.01,Corporate Account,Premium,4.69,In Progress,2025-11-17 17:04:58.054047
+68f435a8,DRV-6894,4,Chicago,Lincoln Park,O'Hare Airport,32.92,135,78.15,7.19,85.34,Debit Card,Comfort,4.93,In Progress,2025-11-17 17:04:56.804546
+cd4fc166,DRV-5983,3,San Francisco,Mission District,SFO Airport,34.53,146,62.45,8.92,71.37,Debit Card,Comfort,4.83,Completed,2025-11-17 17:04:55.537148
+4ee9b8cc,DRV-9866,1,Chicago,Wicker Park,Lincoln Park,3.36,12,10.47,9.24,19.71,Digital Wallet,Comfort,4.69,In Progress,2025-11-17 17:04:54.031770
+1740c0d3,DRV-1052,3,Miami,Wynwood,MIA Airport,22.26,88,65.88,5.47,71.35,Digital Wallet,Economy,4.69,Completed,2025-11-17 17:04:52.062198
+1b926eb2,DRV-9645,1,Miami,South Beach,Coral Gables,8.15,31,49.15,5.42,54.57,Corporate Account,Electric,4.55,Cancelled,2025-11-17 17:04:50.999663
+250e5627,DRV-2788,3,Los Angeles,Santa Monica,Downtown,33.71,138,64.76,7.1,71.86,Corporate Account,SUV,4.8,Completed,2025-11-17 17:04:49.663415
+143c23e6,DRV-5756,2,Chicago,O'Hare Airport,Lincoln Park,32.46,141,197.05,2.9,199.95,Credit Card,Electric,4.54,Cancelled,2025-11-17 17:04:48.309375
+8c8e8496,DRV-6036,2,San Francisco,SFO Airport,Downtown,12.9,46,43.13,9.08,52.21,Digital Wallet,Economy,4.61,Cancelled,2025-11-17 17:04:46.685359
+d1803e30,DRV-8010,3,Los Angeles,LAX Airport,Santa Monica,13.17,50,68.98,8.98,77.96,Digital Wallet,Electric,4.81,Cancelled,2025-11-17 17:04:45.455063
+da8e3804,DRV-5439,2,New York,Brooklyn,Queens,16.72,47,41.88,0.0,41.88,Debit Card,Economy,4.55,In Progress,2025-11-17 17:04:44.192926
+0552a314,DRV-7510,1,Los Angeles,LAX Airport,Venice Beach,13.86,58,27.88,0.0,27.88,Digital Wallet,SUV,4.88,In Progress,2025-11-17 17:04:43.116251
+94e01606,DRV-4344,3,Miami,Brickell,Coral Gables,15.94,50,37.37,6.4,43.77,Debit Card,Economy,4.59,In Progress,2025-11-17 17:04:41.262584
+324a9e10,DRV-2845,1,San Francisco,Financial District,Fisherman's Wharf,28.7,88,86.54,0.0,86.54,Credit Card,Electric,4.93,Cancelled,2025-11-17 17:04:40.664538
+48b74cc4,DRV-4236,1,San Francisco,Fisherman's Wharf,Financial District,14.88,37,89.91,6.08,95.99,Debit Card,SUV,4.82,In Progress,2025-11-17 17:04:39.003576
+c78bb4e7,DRV-3041,1,San Francisco,Fisherman's Wharf,Downtown,17.91,59,33.52,0.0,33.52,Credit Card,Premium,4.54,Cancelled,2025-11-17 17:04:37.379170
+413fd217,DRV-1325,3,Miami,MIA Airport,Downtown,4.66,15,15.24,0.0,15.24,Corporate Account,SUV,4.76,Completed,2025-11-17 17:04:35.441631
+3dab899e,DRV-6249,3,San Francisco,SFO Airport,Marina,29.24,94,67.2,0.0,67.2,Corporate Account,Premium,4.56,In Progress,2025-11-17 17:04:34.237903
+f1e278ed,DRV-7558,1,Los Angeles,Beverly Hills,LAX Airport,34.23,139,85.77,0.0,85.77,Cash,Economy,4.92,Completed,2025-11-17 17:04:32.599356
+762f36ba,DRV-6383,1,Miami,Coral Gables,Wynwood,29.0,121,78.5,0.0,78.5,Digital Wallet,SUV,4.87,In Progress,2025-11-17 17:04:31.594105
+6f672d81,DRV-3911,1,New York,Manhattan,Staten Island,13.13,39,28.48,3.32,31.8,Credit Card,Comfort,4.65,Completed,2025-11-17 17:04:30.533865
+226a702f,DRV-5987,2,Los Angeles,Beverly Hills,Venice Beach,8.13,23,25.96,4.85,30.81,Digital Wallet,Electric,4.92,In Progress,2025-11-17 17:04:29.238470
+d5926792,DRV-4813,2,Miami,Wynwood,Brickell,8.41,32,19.54,8.66,28.2,Credit Card,Electric,4.99,In Progress,2025-11-17 17:04:27.707499
+16d786b3,DRV-5791,3,Los Angeles,Hollywood,Downtown,17.19,44,42.91,0.0,42.91,Cash,SUV,4.66,In Progress,2025-11-17 17:04:27.001148
+ed440270,DRV-2766,4,Los Angeles,Downtown,Venice Beach,10.02,26,28.44,6.02,34.46,Debit Card,SUV,4.91,Completed,2025-11-17 17:04:26.257064
+c004beb4,DRV-5412,2,Los Angeles,Hollywood,Downtown,33.39,111,91.56,0.0,91.56,Debit Card,Comfort,4.76,Cancelled,2025-11-17 17:04:25.629610
+faa9f53d,DRV-1769,3,New York,JFK Airport,LaGuardia Airport,7.81,24,18.38,6.98,25.36,Credit Card,Economy,4.58,Completed,2025-11-17 17:04:24.450266
+0bae51d9,DRV-8341,4,Chicago,Lincoln Park,Loop,6.42,20,16.12,8.57,24.69,Corporate Account,Electric,4.71,Completed,2025-11-17 17:04:23.044948
+e34d04b8,DRV-6404,1,Los Angeles,Santa Monica,LAX Airport,20.05,86,53.23,8.1,61.33,Credit Card,Comfort,4.9,Completed,2025-11-17 17:04:21.340283
+9493a533,DRV-7998,2,Los Angeles,Santa Monica,Venice Beach,18.04,66,34.48,8.43,42.91,Credit Card,Comfort,4.71,In Progress,2025-11-17 17:04:20.254282
+0ef3f2a5,DRV-5784,4,San Francisco,Financial District,SFO Airport,18.61,73,40.28,9.17,49.45,Credit Card,Electric,4.61,In Progress,2025-11-17 17:04:18.649785
+18f9e817,DRV-2402,1,Miami,Brickell,Coral Gables,10.29,40,70.88,3.69,74.57,Corporate Account,Comfort,4.62,Completed,2025-11-17 17:04:17.250502
+ef943917,DRV-2798,1,Los Angeles,Beverly Hills,Venice Beach,9.26,39,31.43,9.4,40.83,Credit Card,Economy,4.94,Completed,2025-11-17 17:04:15.894964
+652af53b,DRV-8067,4,Miami,Downtown,Coral Gables,22.52,70,65.06,0.0,65.06,Digital Wallet,Comfort,4.67,Cancelled,2025-11-17 17:04:14.998667
+0ee19280,DRV-5717,4,Miami,MIA Airport,Downtown,9.97,32,34.13,4.24,38.37,Cash,Electric,4.69,Completed,2025-11-17 17:04:14.126608
+cd4e31ea,DRV-5215,2,Miami,South Beach,MIA Airport,7.86,22,49.75,5.12,54.87,Digital Wallet,Premium,4.68,Completed,2025-11-17 17:04:13.441016
+14ce8da0,DRV-7604,4,San Francisco,Fisherman's Wharf,Marina,26.89,100,53.83,0.0,53.83,Cash,Electric,4.75,Completed,2025-11-17 17:04:12.299679
+1e3d492e,DRV-8252,2,Miami,South Beach,Wynwood,5.58,15,16.76,0.0,16.76,Corporate Account,SUV,4.54,Cancelled,2025-11-17 17:04:11.342241
+c58b5302,DRV-8042,3,Chicago,River North,Lincoln Park,20.08,60,50.94,0.0,50.94,Cash,Premium,4.74,Cancelled,2025-11-17 17:04:10.254878
+1fe45513,DRV-9263,2,Los Angeles,Hollywood,Santa Monica,6.33,19,16.32,2.15,18.47,Debit Card,Comfort,4.76,In Progress,2025-11-17 17:04:08.598156
+7114d256,DRV-7478,4,New York,JFK Airport,LaGuardia Airport,8.41,25,22.79,2.9,25.69,Cash,SUV,4.92,In Progress,2025-11-17 17:04:07.057782
+46d194b8,DRV-8464,2,Miami,Brickell,Downtown,34.23,102,72.37,7.03,79.4,Cash,Comfort,4.52,Cancelled,2025-11-17 17:04:05.148553
+e844e40a,DRV-6853,2,San Francisco,Downtown,SFO Airport,24.6,106,60.92,6.28,67.2,Debit Card,Electric,4.94,In Progress,2025-11-17 17:04:04.339653
+3e30de7a,DRV-9358,4,New York,LaGuardia Airport,JFK Airport,16.67,53,46.76,6.32,53.08,Corporate Account,Premium,4.73,In Progress,2025-11-17 17:04:03.412938
+a4d6fbf5,DRV-4990,3,San Francisco,Financial District,Downtown,22.86,87,60.04,6.03,66.07,Corporate Account,Electric,4.95,Cancelled,2025-11-17 17:04:02.716159
+d43aa1e5,DRV-7442,2,New York,Queens,Bronx,21.13,62,62.61,8.24,70.85,Digital Wallet,Electric,4.56,In Progress,2025-11-17 17:04:00.839194
+adf0ffb6,DRV-1605,2,San Francisco,Marina,SFO Airport,28.12,90,83.89,4.42,88.31,Corporate Account,Premium,4.71,Cancelled,2025-11-17 17:03:59.733824
+53d3abc0,DRV-8945,1,Miami,Downtown,Coral Gables,11.51,31,38.17,4.9,43.07,Corporate Account,Premium,4.79,Cancelled,2025-11-17 17:03:58.118899
+d250bc13,DRV-7035,4,Los Angeles,Santa Monica,Downtown,28.91,109,71.08,0.0,71.08,Digital Wallet,Comfort,4.6,Completed,2025-11-17 17:03:56.306463
+a27de479,DRV-7990,4,Miami,Brickell,South Beach,13.71,55,36.33,0.0,36.33,Digital Wallet,Comfort,4.86,In Progress,2025-11-17 17:03:55.378857
+5cae4d69,DRV-5655,1,Miami,MIA Airport,Wynwood,14.05,61,39.96,6.33,46.29,Credit Card,Economy,4.57,Completed,2025-11-17 17:03:54.270945
+908deb36,DRV-8068,3,Los Angeles,Hollywood,Venice Beach,23.91,93,62.29,0.0,62.29,Corporate Account,Premium,4.7,Completed,2025-11-17 17:03:52.540016
+8e697766,DRV-2973,2,Los Angeles,Hollywood,Santa Monica,27.0,92,62.75,6.22,68.97,Corporate Account,Premium,4.53,In Progress,2025-11-17 17:03:51.722063
+50d7552e,DRV-2888,4,Miami,Downtown,Wynwood,33.39,102,113.6,2.29,115.89,Credit Card,Premium,4.78,In Progress,2025-11-17 17:03:49.967901
+e33a5a30,DRV-7795,3,New York,LaGuardia Airport,Manhattan,14.0,55,32.83,0.0,32.83,Digital Wallet,Electric,4.52,In Progress,2025-11-17 17:03:49.033746
+dfac7189,DRV-6325,3,Los Angeles,Venice Beach,LAX Airport,26.48,104,82.9,0.0,82.9,Digital Wallet,Premium,4.71,Cancelled,2025-11-17 17:03:47.645705
+85a257b7,DRV-3054,3,Miami,South Beach,Downtown,19.78,63,35.94,3.54,39.48,Corporate Account,Premium,4.61,Completed,2025-11-17 17:03:46.441732
+3e761818,DRV-5378,2,Miami,Wynwood,MIA Airport,22.86,67,51.49,2.71,54.2,Credit Card,Premium,4.86,In Progress,2025-11-17 17:03:45.571480
+8b1896b8,DRV-2550,3,Miami,Wynwood,Brickell,10.22,38,25.53,9.75,35.28,Debit Card,Comfort,4.85,In Progress,2025-11-17 17:03:44.161762
+d6fcdb44,DRV-2559,4,Chicago,Lincoln Park,Navy Pier,14.85,54,42.44,0.0,42.44,Corporate Account,Economy,4.94,Completed,2025-11-17 17:03:42.767732
+ec3e82e2,DRV-7981,4,Miami,Wynwood,Downtown,28.64,94,87.16,7.72,94.88,Credit Card,Comfort,4.79,Cancelled,2025-11-17 17:03:41.204765
+c3ab0886,DRV-7519,2,Los Angeles,Venice Beach,Hollywood,22.53,99,68.34,6.79,75.13,Cash,Electric,4.78,In Progress,2025-11-17 17:03:39.918133
+056a2898,DRV-6006,2,Miami,Brickell,MIA Airport,2.59,7,9.06,3.44,12.5,Digital Wallet,Economy,4.88,In Progress,2025-11-17 17:03:38.466510
+5559c09f,DRV-9138,2,Los Angeles,Beverly Hills,Hollywood,9.66,30,20.3,0.0,20.3,Cash,Electric,4.93,Completed,2025-11-17 17:03:37.271261
+d55b6c13,DRV-2444,4,San Francisco,Mission District,Financial District,16.56,48,38.87,7.65,46.52,Corporate Account,Electric,4.88,In Progress,2025-11-17 17:03:36.086698
+a3180ab0,DRV-8286,2,Los Angeles,LAX Airport,Downtown,2.82,9,13.08,0.0,13.08,Credit Card,Economy,4.86,Completed,2025-11-17 17:03:35.424582
+347d3e0e,DRV-2564,3,San Francisco,Downtown,SFO Airport,13.9,50,37.79,9.22,47.01,Corporate Account,Economy,4.75,Completed,2025-11-17 17:03:34.284104
+76ed4fa1,DRV-4176,1,Chicago,Loop,Navy Pier,33.23,133,71.27,6.19,77.46,Credit Card,SUV,4.92,Cancelled,2025-11-17 17:03:32.597680
+c1095814,DRV-7428,4,Chicago,River North,Wicker Park,3.4,9,13.87,3.94,17.81,Digital Wallet,Electric,4.54,Cancelled,2025-11-17 17:03:31.018389
+d0149553,DRV-2471,1,New York,Queens,JFK Airport,33.08,133,97.07,3.29,100.36,Digital Wallet,Comfort,4.8,In Progress,2025-11-17 17:03:30.330332
+85818e91,DRV-5161,1,Los Angeles,LAX Airport,Downtown,12.99,45,25.36,7.08,32.44,Cash,Economy,4.6,Cancelled,2025-11-17 17:03:28.498614
+2be9c331,DRV-9913,2,Los Angeles,Hollywood,Santa Monica,30.06,98,60.61,0.0,60.61,Debit Card,SUV,4.61,In Progress,2025-11-17 17:03:26.808604
+3d390f3f,DRV-8744,1,New York,Brooklyn,LaGuardia Airport,12.37,48,36.3,8.79,45.09,Corporate Account,Premium,4.54,Completed,2025-11-17 17:03:25.075090
+a80520bc,DRV-1544,1,Chicago,O'Hare Airport,Lincoln Park,32.66,96,61.58,0.0,61.58,Digital Wallet,SUV,4.63,Cancelled,2025-11-17 17:03:24.518648
+b84ad92f,DRV-3162,4,New York,Brooklyn,Queens,16.92,75,31.16,9.62,40.78,Corporate Account,Electric,4.69,In Progress,2025-11-17 17:03:23.624595
+af505dfb,DRV-8567,4,Los Angeles,Downtown,LAX Airport,7.23,19,18.89,9.19,28.08,Corporate Account,Electric,4.51,In Progress,2025-11-17 17:03:21.695656
+5bedaf8d,DRV-3134,2,Chicago,Navy Pier,River North,4.03,10,14.32,0.0,14.32,Cash,Economy,4.81,Completed,2025-11-17 17:03:21.066168
+853d7fe9,DRV-1915,3,Chicago,Lincoln Park,Navy Pier,6.86,18,30.37,5.75,36.12,Cash,Premium,4.79,Completed,2025-11-17 17:03:20.084969
+2cf5cbf2,DRV-3698,2,San Francisco,Downtown,Mission District,8.12,31,48.41,0.0,48.41,Corporate Account,Comfort,4.73,Completed,2025-11-17 17:03:18.852925
+3f29559e,DRV-3256,4,New York,JFK Airport,Staten Island,5.36,16,19.05,6.27,25.32,Corporate Account,SUV,4.63,Completed,2025-11-17 17:03:17.133368
+e050eb50,DRV-3984,4,Los Angeles,LAX Airport,Santa Monica,25.47,87,67.36,7.51,74.87,Debit Card,Premium,4.81,In Progress,2025-11-17 17:03:15.571148
+3bbe8da2,DRV-7211,3,New York,Staten Island,Brooklyn,4.45,16,12.27,3.7,15.97,Debit Card,Electric,4.64,Completed,2025-11-17 17:03:14.642299
+d831c788,DRV-9527,4,Miami,Brickell,Coral Gables,6.44,25,22.56,8.96,31.52,Debit Card,Electric,4.73,Cancelled,2025-11-17 17:03:13.025796
+cf8e9862,DRV-6570,2,Miami,Brickell,Wynwood,2.2,8,10.13,5.89,16.02,Credit Card,Electric,4.51,Cancelled,2025-11-17 17:03:12.274037
+d5389927,DRV-5429,2,Chicago,O'Hare Airport,Navy Pier,11.28,31,79.83,6.77,86.6,Corporate Account,Economy,4.77,In Progress,2025-11-17 17:03:11.143086
+9de46e52,DRV-4723,4,San Francisco,SFO Airport,Downtown,13.6,60,36.47,0.0,36.47,Debit Card,Premium,4.72,In Progress,2025-11-17 17:03:09.701743
+1a0333ae,DRV-3050,3,Miami,Coral Gables,Downtown,31.06,109,76.63,6.27,82.9,Credit Card,Premium,4.85,In Progress,2025-11-17 17:03:08.262614
+d654ed5f,DRV-9900,4,San Francisco,Mission District,Marina,30.45,119,149.57,7.82,157.39,Credit Card,Premium,4.94,Completed,2025-11-17 17:03:07.597061
+74150ee7,DRV-1024,2,Chicago,Navy Pier,Lincoln Park,2.11,5,10.57,4.63,15.2,Digital Wallet,SUV,4.52,Cancelled,2025-11-17 17:03:06.391343
+0019f95b,DRV-7154,1,New York,Staten Island,Manhattan,20.69,84,104.88,9.72,114.6,Cash,Premium,4.7,In Progress,2025-11-17 17:03:05.204104
+94648414,DRV-4794,2,Los Angeles,LAX Airport,Hollywood,3.62,10,11.97,3.3,15.27,Digital Wallet,Economy,4.88,Cancelled,2025-11-17 17:03:04.611584
+7d144e47,DRV-9417,2,Chicago,Lincoln Park,Loop,30.24,126,88.92,4.48,93.4,Corporate Account,Economy,4.93,Completed,2025-11-17 17:03:04.008622
+8eb8bc8e,DRV-8878,2,New York,Brooklyn,JFK Airport,5.82,23,15.0,0.0,15.0,Cash,SUV,4.55,Cancelled,2025-11-17 17:03:02.606125
+f54cf70f,DRV-3238,4,New York,LaGuardia Airport,Bronx,20.4,71,47.87,8.59,56.46,Credit Card,SUV,4.7,Completed,2025-11-17 17:03:01.892040
+80db0440,DRV-2040,3,San Francisco,Mission District,Fisherman's Wharf,22.76,92,41.17,8.87,50.04,Corporate Account,Electric,4.93,Cancelled,2025-11-17 17:03:00.288322
+5fabc867,DRV-8396,4,New York,LaGuardia Airport,Brooklyn,27.59,88,66.43,5.86,72.29,Digital Wallet,Premium,4.65,Cancelled,2025-11-17 17:02:58.341889
+a226566d,DRV-3780,1,Miami,Wynwood,Brickell,17.03,54,51.27,2.97,54.24,Credit Card,Economy,4.89,Cancelled,2025-11-17 17:02:57.770783
+1d7c085b,DRV-1457,3,San Francisco,Financial District,Downtown,18.75,75,47.84,3.06,50.9,Debit Card,Electric,4.97,Cancelled,2025-11-17 17:02:55.950929
+a8098500,DRV-9390,3,San Francisco,Downtown,Fisherman's Wharf,3.61,14,24.19,4.19,28.38,Digital Wallet,Comfort,4.69,In Progress,2025-11-17 17:02:54.602501
+990e1e1a,DRV-5027,3,Chicago,O'Hare Airport,Loop,20.35,85,62.02,8.57,70.59,Debit Card,Comfort,4.75,Completed,2025-11-17 17:02:53.001298
+33a081c3,DRV-6097,4,Los Angeles,Downtown,Beverly Hills,2.54,7,8.99,2.02,11.01,Digital Wallet,Premium,4.93,Cancelled,2025-11-17 17:02:52.314756
+bc754cfa,DRV-2570,4,Miami,Coral Gables,MIA Airport,34.02,100,164.12,9.81,173.93,Corporate Account,Premium,4.5,Cancelled,2025-11-17 17:02:51.630113
+a8f8be58,DRV-7982,2,San Francisco,SFO Airport,Downtown,3.38,11,10.12,7.78,17.9,Cash,Economy,4.62,Cancelled,2025-11-17 17:02:50.062688
+62bcc5b9,DRV-8541,1,Miami,Downtown,Wynwood,24.2,108,142.48,7.33,149.81,Cash,Comfort,4.89,Cancelled,2025-11-17 17:02:48.343492
+aca66ed0,DRV-4567,4,Chicago,Loop,Lincoln Park,5.69,20,18.28,0.0,18.28,Cash,Comfort,4.7,Cancelled,2025-11-17 17:02:46.359155
+1af57065,DRV-6263,2,Miami,Coral Gables,South Beach,3.2,11,14.34,0.0,14.34,Corporate Account,Premium,4.95,In Progress,2025-11-17 17:02:45.405659
+42df4eb4,DRV-3737,3,Chicago,Loop,Lincoln Park,33.6,94,75.32,0.0,75.32,Corporate Account,Economy,4.7,Completed,2025-11-17 17:02:43.609299
+a0941a4b,DRV-1020,4,Chicago,Loop,Lincoln Park,33.63,120,182.76,0.0,182.76,Cash,Premium,4.67,Cancelled,2025-11-17 17:02:43.017515
+a160a64f,DRV-7820,1,Los Angeles,LAX Airport,Downtown,29.43,83,87.96,2.97,90.93,Credit Card,Premium,4.77,In Progress,2025-11-17 17:02:41.379167
+8d612e94,DRV-1835,1,Chicago,River North,O'Hare Airport,10.06,41,23.98,0.0,23.98,Credit Card,SUV,4.61,Completed,2025-11-17 17:02:40.719774
+c9e94bd6,DRV-5046,1,Miami,MIA Airport,Brickell,30.99,123,65.43,4.63,70.06,Digital Wallet,Electric,4.7,Cancelled,2025-11-17 17:02:39.009717
+db737d26,DRV-9365,4,San Francisco,Fisherman's Wharf,SFO Airport,10.86,47,78.29,6.17,84.46,Digital Wallet,Economy,4.67,In Progress,2025-11-17 17:02:37.431319
+c1c0a65e,DRV-3832,4,San Francisco,Mission District,SFO Airport,6.45,21,20.65,8.07,28.72,Debit Card,SUV,4.53,Cancelled,2025-11-17 17:02:35.606797
+4b2097c6,DRV-8475,2,San Francisco,SFO Airport,Marina,33.38,142,98.77,3.27,102.04,Digital Wallet,SUV,4.73,Cancelled,2025-11-17 17:02:34.076545
+1545d0e9,DRV-4348,3,Chicago,O'Hare Airport,Navy Pier,3.62,12,12.27,6.76,19.03,Debit Card,Economy,4.96,In Progress,2025-11-17 17:02:32.142863
+23ac1841,DRV-9299,1,Miami,MIA Airport,Downtown,2.87,11,10.6,9.88,20.48,Corporate Account,Comfort,4.73,Cancelled,2025-11-17 17:02:31.207131
+9c6d0f5a,DRV-6286,4,Chicago,Wicker Park,O'Hare Airport,13.32,42,75.79,2.46,78.25,Digital Wallet,Premium,4.55,Cancelled,2025-11-17 17:02:29.244488
+c53c4506,DRV-2741,4,Chicago,O'Hare Airport,Lincoln Park,20.49,78,40.82,0.0,40.82,Cash,SUV,4.95,In Progress,2025-11-17 17:02:28.475112
+dd1459d8,DRV-2718,2,Miami,South Beach,MIA Airport,24.28,72,72.51,7.71,80.22,Digital Wallet,Premium,4.77,Completed,2025-11-17 17:02:27.689105
+a22147df,DRV-8761,3,Miami,Brickell,South Beach,6.42,19,23.67,4.29,27.96,Cash,Comfort,4.5,Completed,2025-11-17 17:02:26.805187
+3c5b5518,DRV-1986,1,San Francisco,Fisherman's Wharf,Financial District,25.31,104,43.36,0.0,43.36,Digital Wallet,Comfort,4.83,Completed,2025-11-17 17:02:25.687984
+05e42435,DRV-1454,1,Chicago,Navy Pier,River North,33.0,88,85.56,4.06,89.62,Cash,Premium,4.54,In Progress,2025-11-17 17:02:24.672292
+a28d374f,DRV-3303,1,San Francisco,Marina,Mission District,28.91,96,48.55,9.14,57.69,Corporate Account,Electric,4.93,Cancelled,2025-11-17 17:02:23.750926
+fbbcf382,DRV-8229,2,Miami,South Beach,Wynwood,25.53,111,58.28,0.0,58.28,Corporate Account,Premium,4.72,In Progress,2025-11-17 17:02:22.226762
+bf8c403d,DRV-4916,2,New York,Staten Island,LaGuardia Airport,33.31,148,91.62,6.54,98.16,Corporate Account,Premium,4.63,Completed,2025-11-17 17:02:20.574106
+d2a09ff0,DRV-7620,4,New York,Manhattan,LaGuardia Airport,20.0,54,44.82,6.1,50.92,Debit Card,SUV,4.75,Completed,2025-11-17 17:02:19.579749
+79d2da25,DRV-6591,2,Chicago,Navy Pier,Wicker Park,10.86,44,31.59,8.15,39.74,Debit Card,Premium,4.5,Completed,2025-11-17 17:02:18.942670
+0976d854,DRV-8756,3,New York,Bronx,Staten Island,21.77,89,56.43,4.04,60.47,Digital Wallet,SUV,4.5,In Progress,2025-11-17 17:02:18.245786
+a0593b33,DRV-8905,3,San Francisco,Fisherman's Wharf,Financial District,23.84,88,58.72,0.0,58.72,Corporate Account,Premium,4.7,Cancelled,2025-11-17 17:02:17.492649
+34a7c739,DRV-9195,3,Los Angeles,LAX Airport,Santa Monica,12.52,32,40.26,5.89,46.15,Credit Card,SUV,4.65,Cancelled,2025-11-17 17:02:15.925267
+386773d3,DRV-9115,1,Miami,Brickell,Wynwood,10.7,34,29.38,4.36,33.74,Cash,SUV,4.71,Cancelled,2025-11-17 17:02:14.902811
+2e1f51b7,DRV-9896,4,Los Angeles,Santa Monica,Beverly Hills,8.59,37,19.85,0.0,19.85,Corporate Account,Premium,4.66,Cancelled,2025-11-17 17:02:13.421950
+50f1e575,DRV-7144,4,Chicago,Lincoln Park,Navy Pier,24.63,82,57.43,8.71,66.14,Corporate Account,Electric,4.59,Cancelled,2025-11-17 17:02:11.985064
+d405d348,DRV-8073,4,New York,Manhattan,LaGuardia Airport,20.35,84,55.28,7.4,62.68,Cash,Comfort,4.61,Completed,2025-11-17 17:02:10.756214
+9944bbfc,DRV-4912,1,New York,Staten Island,Queens,6.53,24,17.32,0.0,17.32,Credit Card,Premium,4.74,Cancelled,2025-11-17 17:02:09.647732
+fd4b7736,DRV-4460,2,Miami,Wynwood,Coral Gables,13.64,41,42.86,5.22,48.08,Debit Card,Electric,4.66,Cancelled,2025-11-17 17:02:07.804564
+678a1899,DRV-3219,4,Miami,Downtown,MIA Airport,13.24,55,28.17,0.0,28.17,Digital Wallet,SUV,4.89,Completed,2025-11-17 17:02:05.992295
+81d660c8,DRV-1273,1,San Francisco,Marina,Financial District,22.39,78,134.79,3.05,137.84,Corporate Account,Premium,4.95,In Progress,2025-11-17 17:02:04.136153
+6cb138b8,DRV-1462,1,Miami,Coral Gables,Wynwood,14.01,62,33.03,4.24,37.27,Digital Wallet,Economy,4.94,In Progress,2025-11-17 17:02:02.471262
+0c05c224,DRV-8470,1,Miami,South Beach,Coral Gables,32.36,116,97.98,0.0,97.98,Debit Card,Electric,4.95,Cancelled,2025-11-17 17:02:01.006813
+7c664c5f,DRV-1084,1,New York,Bronx,Brooklyn,20.7,71,39.59,0.0,39.59,Cash,SUV,4.67,In Progress,2025-11-17 17:02:00.272991
+d4d880fd,DRV-3933,2,New York,LaGuardia Airport,Staten Island,23.02,79,53.48,5.67,59.15,Debit Card,Electric,4.75,Completed,2025-11-17 17:01:59.463199
+d3976d1d,DRV-4080,2,New York,LaGuardia Airport,Manhattan,12.82,43,40.62,0.0,40.62,Corporate Account,Comfort,4.71,In Progress,2025-11-17 17:01:57.949240
+3279bbc8,DRV-4299,3,Miami,South Beach,Brickell,3.53,10,15.58,5.79,21.37,Cash,Economy,4.87,Completed,2025-11-17 17:01:57.031267
+2de9e2bd,DRV-4843,4,New York,Queens,Staten Island,4.12,15,12.73,3.56,16.29,Corporate Account,Electric,4.68,In Progress,2025-11-17 17:01:55.043407
+f0a35435,DRV-7417,2,San Francisco,Mission District,Fisherman's Wharf,17.77,63,34.83,4.18,39.01,Cash,SUV,4.73,In Progress,2025-11-17 17:01:53.886287
+a96f7dec,DRV-5821,2,New York,Bronx,Staten Island,31.78,83,60.72,9.27,69.99,Cash,Electric,4.61,Cancelled,2025-11-17 17:01:53.298081
+1241fbcd,DRV-1965,2,Miami,Downtown,MIA Airport,25.04,96,73.53,0.0,73.53,Cash,SUV,4.8,Cancelled,2025-11-17 17:01:51.520101
+321e80c7,DRV-1657,2,New York,LaGuardia Airport,Bronx,27.82,108,70.1,6.99,77.09,Cash,Electric,4.83,In Progress,2025-11-17 17:01:50.127577
+b98f1c2d,DRV-1434,1,Chicago,Loop,River North,12.03,51,84.68,9.44,94.12,Digital Wallet,Premium,4.8,Completed,2025-11-17 17:01:49.418758
+334138c6,DRV-5661,4,San Francisco,Marina,Fisherman's Wharf,11.73,47,44.5,0.0,44.5,Debit Card,Premium,4.63,In Progress,2025-11-17 17:01:48.903684
+1a381fac,DRV-8499,2,Miami,Brickell,South Beach,8.99,32,28.34,4.93,33.27,Credit Card,Economy,4.95,Completed,2025-11-17 17:01:47.631259
+253914bd,DRV-6393,4,Miami,South Beach,Downtown,5.14,19,18.67,0.0,18.67,Credit Card,Premium,4.56,Completed,2025-11-17 17:01:46.642672
+e295ff95,DRV-2925,3,Miami,Wynwood,South Beach,6.31,19,19.58,3.9,23.48,Credit Card,Comfort,4.96,In Progress,2025-11-17 17:01:46.039787
+ac23f2fe,DRV-2838,1,San Francisco,Marina,Downtown,7.13,21,20.38,7.95,28.33,Corporate Account,Electric,4.55,In Progress,2025-11-17 17:01:45.272676
+ce67b8f6,DRV-5758,3,New York,Manhattan,Queens,17.48,70,42.95,2.16,45.11,Digital Wallet,Economy,4.86,In Progress,2025-11-17 17:01:43.476470
+c65f7243,DRV-2572,2,San Francisco,Mission District,SFO Airport,14.24,35,31.09,4.08,35.17,Credit Card,Comfort,4.65,Cancelled,2025-11-17 17:01:41.581956
+e91fa13c,DRV-1069,1,New York,Manhattan,Bronx,13.65,55,30.93,0.0,30.93,Digital Wallet,Economy,4.54,In Progress,2025-11-17 17:01:40.076824
+7a45601a,DRV-2988,1,Los Angeles,Downtown,Hollywood,9.34,40,20.99,0.0,20.99,Credit Card,Premium,4.88,In Progress,2025-11-17 17:01:38.105135
+d11e402e,DRV-6158,2,Miami,Downtown,South Beach,16.99,66,103.71,5.06,108.77,Corporate Account,Comfort,4.98,In Progress,2025-11-17 17:01:36.929800
+108c8962,DRV-2918,3,Chicago,Lincoln Park,Loop,3.33,12,12.88,6.87,19.75,Corporate Account,Premium,4.62,Completed,2025-11-17 17:01:35.048722
+64dbd088,DRV-3130,2,San Francisco,Financial District,Marina,4.89,21,21.22,7.84,29.06,Corporate Account,SUV,4.81,Cancelled,2025-11-17 17:01:34.194152
+867fb686,DRV-2708,4,New York,Staten Island,LaGuardia Airport,32.51,138,131.08,0.0,131.08,Corporate Account,Electric,4.52,Completed,2025-11-17 17:01:33.450596
+a7fb3632,DRV-2753,3,San Francisco,Financial District,Downtown,17.79,66,37.93,6.65,44.58,Cash,Comfort,4.73,Completed,2025-11-17 17:01:31.632399
+9fd7bde3,DRV-4649,4,Chicago,Loop,Navy Pier,34.84,106,96.12,8.96,105.08,Corporate Account,Economy,4.78,Cancelled,2025-11-17 17:01:30.957529
+269969aa,DRV-6777,4,Miami,Downtown,Wynwood,6.36,24,23.31,2.61,25.92,Corporate Account,Electric,4.89,Completed,2025-11-17 17:01:29.047625
+1ad41aca,DRV-9097,3,Miami,South Beach,Coral Gables,16.17,54,41.02,0.0,41.02,Debit Card,Premium,4.71,In Progress,2025-11-17 17:01:28.281728
+104309c1,DRV-6097,1,Los Angeles,Hollywood,Santa Monica,25.43,80,50.75,2.54,53.29,Debit Card,Electric,4.98,Cancelled,2025-11-17 17:01:27.453629
+8f18c236,DRV-6489,1,Miami,MIA Airport,Coral Gables,30.92,85,155.41,4.73,160.14,Digital Wallet,Comfort,4.6,Cancelled,2025-11-17 17:01:26.664837
+be8fa19b,DRV-2307,2,Miami,South Beach,Wynwood,18.41,76,65.92,0.0,65.92,Credit Card,SUV,4.75,In Progress,2025-11-17 17:01:24.769494
+4b5a0a39,DRV-1639,3,San Francisco,Downtown,SFO Airport,28.86,100,88.34,7.18,95.52,Cash,Premium,4.62,In Progress,2025-11-17 17:01:23.405669
+a21147bb,DRV-7664,2,Miami,Wynwood,South Beach,4.75,13,45.54,9.75,55.29,Debit Card,Economy,4.92,Completed,2025-11-17 17:01:21.591271
+fb56263a,DRV-9525,2,San Francisco,Downtown,Marina,2.08,6,18.57,0.0,18.57,Corporate Account,Economy,4.75,In Progress,2025-11-17 17:01:19.895910
+e647434d,DRV-5058,2,Miami,Downtown,South Beach,34.21,124,82.21,0.0,82.21,Debit Card,Economy,4.58,Cancelled,2025-11-17 17:01:18.740253
+703bb35c,DRV-7831,3,San Francisco,Downtown,Fisherman's Wharf,32.61,118,75.32,0.0,75.32,Cash,SUV,4.81,Cancelled,2025-11-17 17:01:17.873846
+baa0507c,DRV-4137,2,Miami,Downtown,Wynwood,4.31,18,28.3,5.83,34.13,Digital Wallet,Economy,4.62,Completed,2025-11-17 17:01:16.183042
+085d3e79,DRV-2419,3,Los Angeles,Santa Monica,Hollywood,4.76,12,17.08,7.65,24.73,Cash,Electric,4.66,Cancelled,2025-11-17 17:01:15.368820
+3458b40f,DRV-2213,4,Chicago,Loop,River North,12.04,41,65.87,4.97,70.84,Cash,SUV,4.85,Completed,2025-11-17 17:01:14.296865
+968cbeeb,DRV-3900,2,Los Angeles,Beverly Hills,Hollywood,8.18,20,23.69,0.0,23.69,Corporate Account,Economy,5.0,In Progress,2025-11-17 17:01:12.570682
+a344ceb3,DRV-6756,4,New York,Manhattan,Brooklyn,4.08,12,32.1,8.18,40.28,Digital Wallet,Premium,4.82,Cancelled,2025-11-17 17:01:11.388523
+b5a63dff,DRV-9271,1,Chicago,O'Hare Airport,Wicker Park,16.45,67,72.18,0.0,72.18,Cash,Comfort,4.58,Completed,2025-11-17 17:01:10.392751
+1b12b9a2,DRV-9614,1,New York,Brooklyn,Staten Island,22.51,57,55.39,9.28,64.67,Debit Card,Economy,4.76,Completed,2025-11-17 17:01:08.585259
+d765ffef,DRV-1962,4,New York,Bronx,Queens,8.02,32,24.1,8.7,32.8,Corporate Account,Electric,4.55,Completed,2025-11-17 17:01:08.031683
+b7f5e206,DRV-4595,1,Miami,South Beach,Brickell,5.99,16,18.58,4.59,23.17,Credit Card,Electric,4.94,Completed,2025-11-17 17:01:07.098731
+e5458b4d,DRV-5911,4,San Francisco,Marina,Downtown,28.54,104,64.04,8.15,72.19,Cash,SUV,4.6,In Progress,2025-11-17 17:01:05.809291
+fdbcd12a,DRV-8310,1,San Francisco,Financial District,Mission District,27.3,119,66.54,4.4,70.94,Digital Wallet,Economy,4.97,Completed,2025-11-17 17:01:03.963569
+5bc830cb,DRV-2143,2,New York,LaGuardia Airport,JFK Airport,31.4,92,159.18,8.9,168.08,Cash,Economy,4.6,In Progress,2025-11-17 17:01:02.993832
+fb8aefda,DRV-9916,3,San Francisco,Financial District,Marina,7.32,26,17.33,4.07,21.4,Corporate Account,Comfort,4.98,Completed,2025-11-17 17:01:01.807250
+df036e22,DRV-8984,3,New York,Manhattan,JFK Airport,3.05,7,31.81,3.39,35.2,Digital Wallet,Premium,4.73,Completed,2025-11-17 17:01:00.539133
+24f1fbd1,DRV-1799,4,Los Angeles,Santa Monica,Downtown,30.49,127,76.74,5.29,82.03,Cash,Electric,4.82,In Progress,2025-11-17 17:00:58.579567
+fc4f187f,DRV-9538,4,Los Angeles,Downtown,Hollywood,4.93,13,16.41,6.84,23.25,Debit Card,Economy,4.59,Cancelled,2025-11-17 17:00:56.804681
+a9b246c3,DRV-4873,2,Miami,Brickell,Downtown,3.1,12,27.14,8.27,35.41,Credit Card,Electric,4.55,Cancelled,2025-11-17 17:00:56.239460
+f3ac1eb3,DRV-4246,4,San Francisco,SFO Airport,Marina,22.5,84,42.03,0.0,42.03,Cash,Electric,4.9,Cancelled,2025-11-17 17:00:54.960483
+24c478cc,DRV-2451,1,San Francisco,Downtown,Fisherman's Wharf,34.06,125,86.48,2.45,88.93,Cash,Electric,4.86,Cancelled,2025-11-17 17:00:53.698625
+0a9b762a,DRV-8234,1,New York,JFK Airport,Queens,29.13,115,56.22,5.96,62.18,Digital Wallet,Premium,4.5,In Progress,2025-11-17 17:00:53.051804
+c3fae3ee,DRV-4198,1,Chicago,Navy Pier,Wicker Park,13.69,56,34.67,0.0,34.67,Debit Card,SUV,4.72,Cancelled,2025-11-17 17:00:51.139161
+8744e507,DRV-3485,2,New York,Bronx,Brooklyn,32.38,81,73.98,0.0,73.98,Digital Wallet,Electric,4.66,Completed,2025-11-17 17:00:49.842748
+45e9090e,DRV-2908,2,New York,JFK Airport,Manhattan,33.14,145,124.33,4.39,128.72,Digital Wallet,Premium,4.51,In Progress,2025-11-17 17:00:48.617646
+128c9e2b,DRV-3683,3,San Francisco,Marina,Fisherman's Wharf,24.13,69,63.63,0.0,63.63,Corporate Account,Comfort,4.79,Completed,2025-11-17 17:00:47.126827
+a6369738,DRV-4943,3,San Francisco,SFO Airport,Fisherman's Wharf,2.99,8,10.1,0.0,10.1,Credit Card,Economy,4.75,Completed,2025-11-17 17:00:46.357031
+296db4f1,DRV-1505,1,Chicago,River North,Lincoln Park,10.64,33,23.32,6.89,30.21,Cash,Premium,4.74,Completed,2025-11-17 17:00:45.092438
+733c8818,DRV-3048,3,Miami,MIA Airport,South Beach,23.64,103,52.41,7.73,60.14,Digital Wallet,Premium,4.77,Completed,2025-11-17 17:00:43.110483
+2268d1ee,DRV-4630,1,Los Angeles,LAX Airport,Venice Beach,20.85,80,52.06,3.93,55.99,Debit Card,SUV,4.87,Cancelled,2025-11-17 17:00:41.268537
+4c81544d,DRV-6812,4,Chicago,Lincoln Park,Loop,14.51,60,27.47,4.29,31.76,Credit Card,SUV,4.83,Completed,2025-11-17 17:00:40.225359
+e18e7b1e,DRV-6521,1,New York,Manhattan,Queens,6.39,21,20.25,6.34,26.59,Digital Wallet,Electric,4.61,Completed,2025-11-17 17:00:39.026944
+0e994303,DRV-2533,2,New York,Brooklyn,Manhattan,27.47,72,59.18,8.68,67.86,Debit Card,Comfort,4.81,Completed,2025-11-17 17:00:38.280920
+3fe60bd6,DRV-7396,2,San Francisco,Financial District,Fisherman's Wharf,5.14,17,14.84,0.0,14.84,Digital Wallet,SUV,4.93,Completed,2025-11-17 17:00:37.411635
+c0f3787a,DRV-3346,1,San Francisco,Downtown,SFO Airport,13.6,56,49.46,6.76,56.22,Digital Wallet,SUV,4.74,Completed,2025-11-17 17:00:35.807141
+8f7457a7,DRV-6870,1,San Francisco,Marina,Fisherman's Wharf,16.47,44,30.78,7.81,38.59,Credit Card,Electric,4.78,Cancelled,2025-11-17 17:00:34.716637
+dae38660,DRV-9104,4,New York,Bronx,JFK Airport,30.78,126,52.46,7.09,59.55,Corporate Account,Economy,4.76,Cancelled,2025-11-17 17:00:33.388749
+0feaae4a,DRV-9485,2,New York,LaGuardia Airport,JFK Airport,13.42,34,31.45,3.57,35.02,Credit Card,SUV,4.76,In Progress,2025-11-17 17:00:32.373342
+4ccfdbc2,DRV-6697,1,San Francisco,SFO Airport,Downtown,28.76,129,53.14,4.51,57.65,Credit Card,Comfort,4.87,Completed,2025-11-17 17:00:31.673182
+71351f55,DRV-2306,2,Miami,Coral Gables,Brickell,26.64,102,175.43,0.0,175.43,Credit Card,Comfort,4.84,In Progress,2025-11-17 17:00:30.587390
+0b08845d,DRV-3856,4,San Francisco,Fisherman's Wharf,Marina,28.97,74,59.09,7.17,66.26,Corporate Account,Economy,4.96,In Progress,2025-11-17 17:00:29.823281
+1483269f,DRV-3175,1,Chicago,Navy Pier,Loop,16.75,63,32.52,0.0,32.52,Credit Card,Electric,4.88,Cancelled,2025-11-17 17:00:29.065433
+e1ae73a8,DRV-3147,1,Los Angeles,Hollywood,Venice Beach,15.7,41,34.49,2.47,36.96,Cash,Comfort,4.79,Completed,2025-11-17 17:00:27.726162
+ed4d1886,DRV-9598,4,Los Angeles,Venice Beach,Santa Monica,28.31,93,64.88,8.44,73.32,Corporate Account,Electric,4.97,Completed,2025-11-17 17:00:26.261627
+c509c27f,DRV-1041,2,Miami,Downtown,Coral Gables,20.6,84,57.36,0.0,57.36,Credit Card,Electric,4.78,Cancelled,2025-11-17 17:00:25.603302
+a18652b2,DRV-8238,2,Los Angeles,LAX Airport,Downtown,22.8,95,53.76,0.0,53.76,Corporate Account,Premium,4.79,Cancelled,2025-11-17 17:00:25.016300
+16f9a0d4,DRV-6398,1,Chicago,River North,Lincoln Park,17.92,64,39.87,8.47,48.34,Debit Card,Economy,4.99,Cancelled,2025-11-17 17:00:23.900455
+b8906853,DRV-2517,1,San Francisco,Fisherman's Wharf,Marina,15.93,44,47.68,0.0,47.68,Cash,Premium,4.6,In Progress,2025-11-17 17:00:22.120486
+ac79e61b,DRV-1841,2,Los Angeles,Santa Monica,Downtown,23.06,88,60.06,4.25,64.31,Corporate Account,SUV,4.73,In Progress,2025-11-17 17:00:21.111962
+19929112,DRV-7336,2,Chicago,Navy Pier,O'Hare Airport,26.71,73,45.95,6.14,52.09,Corporate Account,Economy,4.51,In Progress,2025-11-17 17:00:20.584748
+9444b32a,DRV-5766,4,Miami,Downtown,South Beach,22.11,69,41.94,9.14,51.08,Corporate Account,Electric,4.95,In Progress,2025-11-17 17:00:19.279934
+4e92aac3,DRV-5368,2,New York,Queens,Staten Island,17.11,56,51.04,0.0,51.04,Corporate Account,SUV,4.59,In Progress,2025-11-17 17:00:17.739061
+2b88a3c7,DRV-8629,1,Chicago,Navy Pier,O'Hare Airport,12.59,48,32.01,0.0,32.01,Digital Wallet,Comfort,4.92,Cancelled,2025-11-17 17:00:16.321249
+dc36c0b4,DRV-6248,2,San Francisco,Downtown,Mission District,29.51,95,87.59,3.65,91.24,Credit Card,SUV,4.6,Cancelled,2025-11-17 17:00:14.959958
+b50c5e5c,DRV-2622,3,New York,Bronx,Staten Island,32.74,84,77.85,0.0,77.85,Credit Card,Electric,4.66,In Progress,2025-11-17 17:00:13.409429
+d7ccb44a,DRV-6620,1,San Francisco,Financial District,Downtown,18.63,81,133.59,3.17,136.76,Corporate Account,Premium,4.66,Completed,2025-11-17 17:00:11.956736
+ff2d8269,DRV-2475,1,New York,JFK Airport,LaGuardia Airport,19.7,76,64.33,0.0,64.33,Cash,Comfort,4.75,Completed,2025-11-17 17:00:11.318372
+27c9233c,DRV-6343,3,New York,Staten Island,Brooklyn,10.3,36,33.06,0.0,33.06,Corporate Account,Comfort,4.74,In Progress,2025-11-17 17:00:10.094084
+ad9d50b1,DRV-4000,3,San Francisco,Marina,Downtown,22.04,75,47.5,3.58,51.08,Debit Card,Economy,4.8,Cancelled,2025-11-17 17:00:09.304498
+9c10f10d,DRV-6060,1,New York,Brooklyn,Bronx,8.92,37,19.66,0.0,19.66,Debit Card,Electric,4.89,Cancelled,2025-11-17 17:00:08.670240
+c8d62caa,DRV-5677,3,Miami,MIA Airport,Wynwood,11.01,35,26.74,9.79,36.53,Debit Card,Comfort,4.65,In Progress,2025-11-17 17:00:07.664165
+7cfcc2fe,DRV-6407,3,Chicago,Lincoln Park,Navy Pier,31.25,121,141.48,4.36,145.84,Corporate Account,Electric,4.87,Completed,2025-11-17 17:00:06.639835
+68698267,DRV-8880,3,Chicago,Navy Pier,Loop,12.91,51,41.57,0.0,41.57,Cash,Premium,4.66,Completed,2025-11-17 17:00:04.968275
+860c1907,DRV-9477,2,San Francisco,Marina,Mission District,3.0,8,12.4,0.0,12.4,Credit Card,SUV,4.81,In Progress,2025-11-17 17:00:04.172932
+a94caba9,DRV-6927,1,New York,Bronx,Queens,26.71,82,77.23,0.0,77.23,Digital Wallet,Economy,4.56,In Progress,2025-11-17 17:00:03.297269
+8ca2de87,DRV-2017,1,Miami,Coral Gables,South Beach,9.85,25,26.71,6.08,32.79,Corporate Account,Economy,4.6,Completed,2025-11-17 17:00:01.927271
+5ae9614a,DRV-4930,4,San Francisco,SFO Airport,Downtown,15.57,65,102.59,6.35,108.94,Corporate Account,Comfort,4.94,Cancelled,2025-11-17 17:00:00.209214
+cb84a6f7,DRV-9688,3,Miami,MIA Airport,South Beach,11.54,38,30.93,2.92,33.85,Cash,Electric,4.87,In Progress,2025-11-17 16:59:58.265658
+197f4c60,DRV-9762,1,Miami,South Beach,Brickell,31.86,79,85.1,3.67,88.77,Debit Card,Premium,4.67,In Progress,2025-11-17 16:59:57.477748
+e3a5f3fa,DRV-2920,4,Miami,South Beach,MIA Airport,3.45,13,14.19,0.0,14.19,Debit Card,SUV,4.53,Cancelled,2025-11-17 16:59:56.836948
+f4586afc,DRV-6933,1,Miami,MIA Airport,Coral Gables,18.19,53,48.55,3.05,51.6,Credit Card,Electric,4.68,Completed,2025-11-17 16:59:55.673416
+bb595dcc,DRV-6526,3,Chicago,Lincoln Park,River North,8.32,33,23.77,8.37,32.14,Corporate Account,Premium,4.7,Completed,2025-11-17 16:59:54.681199
+e76a99e7,DRV-8114,2,Miami,Brickell,Wynwood,30.02,76,149.82,3.3,153.12,Cash,Comfort,4.93,In Progress,2025-11-17 16:59:53.150149
+3b17380c,DRV-5948,1,Los Angeles,Venice Beach,LAX Airport,10.27,42,27.15,6.11,33.26,Debit Card,Premium,4.57,In Progress,2025-11-17 16:59:52.523971
+e6ae5b06,DRV-8652,2,New York,Bronx,Brooklyn,14.0,40,32.21,6.21,38.42,Digital Wallet,Premium,4.92,In Progress,2025-11-17 16:59:50.982443
+0b5e66e3,DRV-2537,4,Chicago,O'Hare Airport,Wicker Park,15.31,40,60.01,5.77,65.78,Cash,Economy,4.78,In Progress,2025-11-17 16:59:49.345883
+a8cc2061,DRV-8078,4,Los Angeles,Beverly Hills,Downtown,34.26,147,60.24,0.0,60.24,Credit Card,SUV,4.78,Completed,2025-11-17 16:59:48.515582
+0926044b,DRV-6887,1,Los Angeles,Venice Beach,Beverly Hills,6.4,23,50.25,0.0,50.25,Cash,SUV,4.79,Cancelled,2025-11-17 16:59:47.568709
+2c9aedb5,DRV-6183,1,Chicago,O'Hare Airport,River North,4.18,17,13.86,0.0,13.86,Digital Wallet,Premium,4.66,Completed,2025-11-17 16:59:46.203345
+a271b475,DRV-4010,1,Chicago,Lincoln Park,Navy Pier,18.47,73,47.61,7.06,54.67,Cash,Premium,4.85,In Progress,2025-11-17 16:59:44.517521
+edc20cb9,DRV-8751,3,Chicago,Lincoln Park,River North,30.22,124,74.75,5.88,80.63,Credit Card,Premium,4.77,Cancelled,2025-11-17 16:59:43.615466
+7b87a200,DRV-4933,4,Miami,Brickell,MIA Airport,32.86,141,73.44,0.0,73.44,Digital Wallet,Electric,4.92,Completed,2025-11-17 16:59:42.857016
+4ca59b6c,DRV-8727,4,Miami,Coral Gables,Downtown,14.86,65,52.24,6.45,58.69,Corporate Account,Economy,4.8,In Progress,2025-11-17 16:59:41.575356
+8e9f6d4f,DRV-1879,4,Chicago,Lincoln Park,O'Hare Airport,27.15,86,53.38,7.2,60.58,Cash,Economy,4.72,In Progress,2025-11-17 16:59:39.758604
+fa14515d,DRV-6006,3,Miami,South Beach,MIA Airport,11.72,33,48.86,3.86,52.72,Debit Card,Comfort,4.77,Cancelled,2025-11-17 16:59:38.573208
+b266c189,DRV-5171,3,Miami,Wynwood,Downtown,24.94,78,54.46,5.32,59.78,Debit Card,Comfort,4.82,In Progress,2025-11-17 16:59:37.987622
+b7fa37c8,DRV-2384,3,Los Angeles,Downtown,Santa Monica,29.76,115,61.07,0.0,61.07,Cash,Premium,4.98,Cancelled,2025-11-17 16:59:37.083151
+3ca89e05,DRV-6257,4,Chicago,Lincoln Park,River North,26.05,106,52.54,0.0,52.54,Digital Wallet,SUV,4.64,In Progress,2025-11-17 16:59:35.382048
+70ae36ba,DRV-4954,4,Miami,MIA Airport,Wynwood,8.73,38,18.15,7.95,26.1,Digital Wallet,Premium,4.63,In Progress,2025-11-17 16:59:34.588134
+6d63259a,DRV-9262,3,Chicago,Wicker Park,Lincoln Park,21.88,93,62.29,0.0,62.29,Corporate Account,Premium,4.76,In Progress,2025-11-17 16:59:32.704960
+08e7f4ed,DRV-7393,4,San Francisco,Fisherman's Wharf,Downtown,25.61,85,52.41,9.55,61.96,Digital Wallet,Electric,4.84,In Progress,2025-11-17 16:59:31.018620
+12b056ab,DRV-2401,2,San Francisco,Mission District,Financial District,19.0,60,58.14,0.0,58.14,Cash,Electric,4.9,Cancelled,2025-11-17 16:59:29.974915
+552e4daa,DRV-7608,4,Chicago,Wicker Park,River North,10.51,26,31.91,5.93,37.84,Corporate Account,Premium,4.73,Completed,2025-11-17 16:59:28.183240
+90efcfe1,DRV-6856,3,Chicago,Wicker Park,Loop,16.99,46,55.39,5.5,60.89,Digital Wallet,Electric,4.83,Cancelled,2025-11-17 16:59:26.640055
+1594a293,DRV-5318,2,Los Angeles,Venice Beach,Santa Monica,28.17,105,66.28,0.0,66.28,Debit Card,Premium,4.71,Completed,2025-11-17 16:59:25.596620
+8c5fe742,DRV-2599,4,Miami,Brickell,Downtown,16.53,48,31.89,0.0,31.89,Credit Card,Premium,4.99,In Progress,2025-11-17 16:59:23.599577
+bd655a62,DRV-4537,3,New York,Queens,Brooklyn,24.45,75,48.38,0.0,48.38,Digital Wallet,Economy,4.65,In Progress,2025-11-17 16:59:22.664904
+ca8a7da4,DRV-2528,1,Chicago,O'Hare Airport,Loop,21.68,56,67.69,0.0,67.69,Debit Card,Comfort,4.73,Cancelled,2025-11-17 16:59:22.073257
+5e5913f9,DRV-5460,3,Miami,Coral Gables,Wynwood,31.3,126,53.6,5.64,59.24,Corporate Account,Premium,4.85,In Progress,2025-11-17 16:59:20.115809
+8f4f708c,DRV-2956,1,Los Angeles,LAX Airport,Hollywood,31.38,131,84.31,0.0,84.31,Credit Card,Premium,4.59,Completed,2025-11-17 16:59:19.595914
+a258db45,DRV-8614,1,Los Angeles,Downtown,LAX Airport,18.74,55,45.27,2.54,47.81,Digital Wallet,Premium,4.69,Cancelled,2025-11-17 16:59:18.190003
+f719299a,DRV-9428,1,Chicago,Wicker Park,Lincoln Park,12.98,54,35.26,9.93,45.19,Corporate Account,Economy,4.77,In Progress,2025-11-17 16:59:16.275807
+f1a7a021,DRV-9717,4,New York,LaGuardia Airport,Bronx,16.71,68,50.91,8.24,59.15,Credit Card,Economy,4.75,Cancelled,2025-11-17 16:59:15.636285
+f3cdc4b6,DRV-2993,1,New York,Bronx,Manhattan,26.48,110,79.5,0.0,79.5,Corporate Account,Premium,4.86,Cancelled,2025-11-17 16:59:14.205567
+d4b4d155,DRV-1123,4,Chicago,River North,Loop,15.88,66,41.21,9.45,50.66,Digital Wallet,Premium,4.94,In Progress,2025-11-17 16:59:13.653153
+c453b56c,DRV-1448,4,Chicago,River North,Lincoln Park,25.25,105,48.2,0.0,48.2,Credit Card,Electric,4.71,In Progress,2025-11-17 16:59:13.006276
+7397497d,DRV-5060,3,Los Angeles,LAX Airport,Downtown,8.7,26,21.03,5.15,26.18,Cash,Economy,4.75,Cancelled,2025-11-17 16:59:11.302953
+80d4b50c,DRV-4679,2,Los Angeles,Venice Beach,Hollywood,12.45,48,33.02,7.94,40.96,Digital Wallet,Electric,4.8,Completed,2025-11-17 16:59:09.863004
+2f83cb37,DRV-4696,3,Chicago,Loop,Navy Pier,27.57,75,99.58,0.0,99.58,Cash,Electric,4.72,Completed,2025-11-17 16:59:09.190387
+458ebfb8,DRV-2797,3,Los Angeles,Venice Beach,LAX Airport,30.13,87,93.56,5.32,98.88,Corporate Account,Electric,4.66,Cancelled,2025-11-17 16:59:07.772420
+79430804,DRV-3539,3,Miami,Brickell,Coral Gables,3.13,10,11.23,8.71,19.94,Corporate Account,Comfort,4.64,In Progress,2025-11-17 16:59:07.125626
+1af96802,DRV-2525,1,Miami,Brickell,South Beach,9.08,28,67.18,0.0,67.18,Cash,Electric,4.81,In Progress,2025-11-17 16:59:06.544453
+0eed67d4,DRV-3729,2,San Francisco,Fisherman's Wharf,Financial District,25.34,99,65.25,0.0,65.25,Cash,Premium,4.59,Completed,2025-11-17 16:59:05.414133
+e4a88b3d,DRV-4386,2,Chicago,Navy Pier,O'Hare Airport,13.65,35,38.06,9.83,47.89,Digital Wallet,Premium,4.64,Completed,2025-11-17 16:59:04.781171
+5cab2522,DRV-1586,1,San Francisco,Financial District,Mission District,12.1,38,24.09,6.33,30.42,Cash,Premium,4.58,Cancelled,2025-11-17 16:59:03.489437
+30a2dc21,DRV-6993,2,Miami,Wynwood,Coral Gables,10.77,29,27.85,0.0,27.85,Debit Card,Premium,4.68,Cancelled,2025-11-17 16:59:02.100107
+c850ef03,DRV-6079,1,San Francisco,SFO Airport,Financial District,3.94,10,16.49,7.03,23.52,Digital Wallet,Premium,4.76,In Progress,2025-11-17 16:59:01.134219
+24e15932,DRV-7994,4,Los Angeles,Hollywood,LAX Airport,21.48,70,49.99,6.83,56.82,Corporate Account,Electric,4.65,In Progress,2025-11-17 16:59:00.356283
+0d7945db,DRV-3999,2,San Francisco,SFO Airport,Downtown,5.61,17,17.0,0.0,17.0,Corporate Account,SUV,4.7,Cancelled,2025-11-17 16:58:58.719367
+b9f762b3,DRV-1890,3,Miami,South Beach,Downtown,25.87,112,57.97,4.59,62.56,Debit Card,Electric,4.73,Cancelled,2025-11-17 16:58:58.019182
+7f90a1ad,DRV-6007,2,New York,LaGuardia Airport,Bronx,3.16,10,12.66,7.04,19.7,Credit Card,SUV,4.74,Cancelled,2025-11-17 16:58:56.621883
+c1cc09ef,DRV-3506,3,Chicago,Lincoln Park,Navy Pier,20.01,76,108.02,0.0,108.02,Credit Card,Comfort,4.82,In Progress,2025-11-17 16:58:54.973266
+771adca8,DRV-9477,2,Los Angeles,LAX Airport,Santa Monica,5.46,19,14.94,7.27,22.21,Credit Card,Electric,4.73,Cancelled,2025-11-17 16:58:54.013039
+876efd80,DRV-1144,1,Chicago,Loop,Wicker Park,6.31,17,21.14,0.0,21.14,Cash,SUV,4.55,Completed,2025-11-17 16:58:53.481469
+31a47645,DRV-2395,2,Miami,Coral Gables,Wynwood,30.61,79,89.95,3.86,93.81,Digital Wallet,SUV,4.96,Completed,2025-11-17 16:58:51.603792
+9b6d8dec,DRV-4213,1,Miami,Wynwood,Brickell,14.66,60,37.86,8.3,46.16,Corporate Account,SUV,4.66,Cancelled,2025-11-17 16:58:50.766450
+123e8d0b,DRV-9464,4,New York,Queens,Manhattan,24.25,101,70.58,3.06,73.64,Corporate Account,Electric,4.91,Cancelled,2025-11-17 16:58:49.956540
+436dc6e5,DRV-3669,3,Chicago,Lincoln Park,River North,23.11,87,86.4,6.38,92.78,Corporate Account,Premium,4.63,Completed,2025-11-17 16:58:49.007657
+13fbc939,DRV-2702,2,San Francisco,Downtown,Financial District,3.09,8,29.2,0.0,29.2,Debit Card,Comfort,4.63,Completed,2025-11-17 16:58:48.286123
+afa55e55,DRV-8648,1,New York,Bronx,LaGuardia Airport,8.14,27,27.55,8.34,35.89,Credit Card,Economy,4.78,Cancelled,2025-11-17 16:58:46.957528
+2b4d206c,DRV-1550,2,New York,LaGuardia Airport,Staten Island,12.65,49,37.54,2.09,39.63,Cash,Economy,4.63,Cancelled,2025-11-17 16:58:45.278589
+c418661f,DRV-7811,1,Miami,South Beach,Wynwood,10.1,31,34.44,9.56,44.0,Credit Card,SUV,4.91,In Progress,2025-11-17 16:58:43.776753
+7176673b,DRV-7848,2,Los Angeles,Beverly Hills,Santa Monica,34.53,86,87.5,8.23,95.73,Debit Card,Premium,4.74,Cancelled,2025-11-17 16:58:42.914520
+f319c992,DRV-1090,4,San Francisco,Financial District,Fisherman's Wharf,13.0,51,36.66,0.0,36.66,Corporate Account,Economy,4.71,Completed,2025-11-17 16:58:42.211088
+e0a5cc22,DRV-5782,2,San Francisco,SFO Airport,Mission District,29.94,85,118.51,9.59,128.1,Debit Card,Electric,4.64,Completed,2025-11-17 16:58:40.840895
+350f8435,DRV-2852,3,New York,LaGuardia Airport,Brooklyn,32.81,126,147.39,0.0,147.39,Credit Card,Comfort,4.51,In Progress,2025-11-17 16:58:39.731169
+85876441,DRV-4589,1,San Francisco,Marina,Downtown,5.87,20,15.54,0.0,15.54,Debit Card,SUV,4.53,Completed,2025-11-17 16:58:38.810773
+442ae098,DRV-6656,1,Los Angeles,LAX Airport,Hollywood,33.47,108,89.21,0.0,89.21,Corporate Account,Comfort,4.52,Completed,2025-11-17 16:58:37.391743
+c3804248,DRV-8361,2,Miami,Coral Gables,Brickell,8.06,21,19.48,9.61,29.09,Debit Card,Premium,4.84,In Progress,2025-11-17 16:58:36.067174
+b91eb6ce,DRV-6344,1,Chicago,Wicker Park,O'Hare Airport,11.23,32,36.47,9.45,45.92,Corporate Account,SUV,4.72,Completed,2025-11-17 16:58:34.744390
+2d0a2df2,DRV-8219,1,Chicago,O'Hare Airport,Wicker Park,12.48,54,42.14,0.0,42.14,Corporate Account,Economy,4.86,In Progress,2025-11-17 16:58:33.277689
+1cf6e26d,DRV-6814,3,San Francisco,Fisherman's Wharf,Mission District,11.07,44,27.9,0.0,27.9,Digital Wallet,Economy,4.71,Completed,2025-11-17 16:58:31.842486
+e348c207,DRV-1651,3,New York,Brooklyn,Queens,23.63,105,54.33,0.0,54.33,Digital Wallet,Economy,4.84,In Progress,2025-11-17 16:58:30.242866
+c2928c60,DRV-3813,4,New York,Staten Island,LaGuardia Airport,17.84,59,112.0,5.39,117.39,Corporate Account,Economy,4.7,In Progress,2025-11-17 16:58:29.624084
+0984f1db,DRV-2606,1,Miami,MIA Airport,Brickell,30.51,134,85.05,0.0,85.05,Corporate Account,Premium,4.98,Cancelled,2025-11-17 16:58:28.550096
+bac4b2bd,DRV-2924,4,Miami,Downtown,MIA Airport,3.57,14,13.22,0.0,13.22,Credit Card,Economy,4.88,Cancelled,2025-11-17 16:58:27.404659
+c384b91e,DRV-1661,3,New York,Manhattan,Staten Island,29.66,78,79.5,0.0,79.5,Corporate Account,Premium,4.82,Completed,2025-11-17 16:58:26.373083
+54d8d187,DRV-8147,3,Chicago,Navy Pier,Wicker Park,32.69,94,57.5,9.9,67.4,Corporate Account,SUV,4.78,Completed,2025-11-17 16:58:24.608687
+233283e4,DRV-3090,1,Los Angeles,Santa Monica,Downtown,12.96,50,43.31,4.06,47.37,Digital Wallet,Premium,4.78,Completed,2025-11-17 16:58:22.875384
+213528a3,DRV-9701,4,Miami,Brickell,MIA Airport,28.41,117,73.22,6.35,79.57,Corporate Account,Electric,4.83,Completed,2025-11-17 16:58:21.145307
+f5b149dd,DRV-4451,3,San Francisco,Financial District,Downtown,3.52,11,11.84,3.16,15.0,Digital Wallet,Electric,4.61,In Progress,2025-11-17 16:58:20.131212
+26164d54,DRV-7660,2,Los Angeles,Downtown,Hollywood,32.26,100,69.28,7.29,76.57,Digital Wallet,Comfort,4.9,Completed,2025-11-17 16:58:19.389073
+cde8aa65,DRV-7193,2,Los Angeles,Venice Beach,Beverly Hills,16.09,50,54.99,6.7,61.69,Digital Wallet,Economy,4.98,Cancelled,2025-11-17 16:58:17.689240
+020c23ce,DRV-9824,1,Los Angeles,Hollywood,Beverly Hills,20.17,69,36.18,0.0,36.18,Cash,Electric,4.91,Cancelled,2025-11-17 16:58:16.743026
+d0500a94,DRV-5257,4,New York,Bronx,Brooklyn,20.68,72,53.78,8.49,62.27,Debit Card,Economy,4.69,Cancelled,2025-11-17 16:58:15.803446
+256067a4,DRV-2101,1,San Francisco,Financial District,Fisherman's Wharf,17.06,68,125.71,2.05,127.76,Credit Card,Comfort,4.76,In Progress,2025-11-17 16:58:14.134324
+8bead79f,DRV-6132,4,San Francisco,Mission District,Financial District,17.56,44,38.31,0.0,38.31,Corporate Account,SUV,4.77,In Progress,2025-11-17 16:58:13.028162
+52ae2166,DRV-8641,4,San Francisco,Financial District,Mission District,33.19,126,170.86,6.48,177.34,Debit Card,SUV,4.65,Completed,2025-11-17 16:58:11.389426
+7e4af3c9,DRV-2514,2,San Francisco,Financial District,Mission District,15.61,44,32.21,0.0,32.21,Digital Wallet,Economy,4.95,Cancelled,2025-11-17 16:58:10.061638
+31547835,DRV-1638,4,Los Angeles,Downtown,LAX Airport,16.86,53,42.05,0.0,42.05,Cash,SUV,4.92,Cancelled,2025-11-17 16:58:08.459385
+98574849,DRV-3108,1,San Francisco,Mission District,Marina,21.71,55,50.16,0.0,50.16,Debit Card,Economy,4.97,In Progress,2025-11-17 16:58:07.305283
+d5cab4b9,DRV-6854,3,New York,Staten Island,LaGuardia Airport,11.71,42,81.62,0.0,81.62,Corporate Account,Premium,4.91,In Progress,2025-11-17 16:58:05.574607
+69ae9abe,DRV-6098,1,San Francisco,Mission District,Downtown,22.44,78,64.28,9.42,73.7,Credit Card,Economy,4.99,Completed,2025-11-17 16:58:04.218536
+97298ceb,DRV-1379,3,Los Angeles,Beverly Hills,Downtown,28.14,100,67.41,6.85,74.26,Corporate Account,Premium,4.87,Cancelled,2025-11-17 16:58:03.008895
+405e8f5f,DRV-3765,3,Los Angeles,Venice Beach,LAX Airport,11.41,32,34.08,0.0,34.08,Digital Wallet,SUV,4.54,Cancelled,2025-11-17 16:58:01.348317
+504e7b6f,DRV-2787,3,New York,LaGuardia Airport,Staten Island,3.89,15,14.08,8.46,22.54,Corporate Account,SUV,4.55,In Progress,2025-11-17 16:57:59.501962
+329f76cf,DRV-4708,3,Chicago,Loop,Navy Pier,9.26,26,19.97,9.78,29.75,Credit Card,Premium,4.89,Cancelled,2025-11-17 16:57:58.256752
+c74fb658,DRV-2271,2,Los Angeles,Santa Monica,Beverly Hills,30.75,129,63.94,7.47,71.41,Debit Card,Premium,5.0,In Progress,2025-11-17 16:57:56.473370
+f3ed86e5,DRV-7927,2,Chicago,Lincoln Park,Loop,32.06,121,54.8,5.96,60.76,Digital Wallet,Electric,4.53,Cancelled,2025-11-17 16:57:55.315623
+e5107c5d,DRV-7141,2,Chicago,O'Hare Airport,Navy Pier,21.67,68,49.03,0.0,49.03,Debit Card,Economy,4.9,In Progress,2025-11-17 16:57:54.739214
+e3e3c018,DRV-7306,2,Miami,South Beach,Coral Gables,7.28,30,17.95,6.89,24.84,Cash,Comfort,4.84,Cancelled,2025-11-17 16:57:53.641090
+737a3692,DRV-6618,2,Chicago,Navy Pier,Lincoln Park,21.62,69,49.04,3.17,52.21,Cash,Electric,4.52,In Progress,2025-11-17 16:57:52.905244
+d871ee44,DRV-6703,3,Chicago,Wicker Park,River North,2.07,8,11.03,0.0,11.03,Cash,Economy,4.96,Completed,2025-11-17 16:57:52.059943
+0b7cc4f1,DRV-6880,1,New York,Staten Island,Queens,23.16,59,71.3,3.76,75.06,Digital Wallet,Electric,4.96,Cancelled,2025-11-17 16:57:50.206799
+dd2f6619,DRV-2978,3,New York,Brooklyn,JFK Airport,20.64,62,51.05,4.49,55.54,Credit Card,SUV,4.85,Cancelled,2025-11-17 16:57:49.644539
+1e7f52db,DRV-2839,2,Miami,Coral Gables,Wynwood,25.49,103,63.22,6.21,69.43,Cash,Comfort,4.82,In Progress,2025-11-17 16:57:48.735429
+4c6544f7,DRV-4408,4,Chicago,O'Hare Airport,River North,26.52,114,112.71,0.0,112.71,Credit Card,Premium,4.68,Cancelled,2025-11-17 16:57:47.455961
+2196c26b,DRV-5503,3,Miami,Brickell,Coral Gables,5.52,22,28.42,0.0,28.42,Corporate Account,Comfort,4.7,Cancelled,2025-11-17 16:57:45.758398
+5ba7cd4e,DRV-9274,4,New York,Queens,Manhattan,18.72,62,35.89,9.39,45.28,Credit Card,SUV,4.89,Cancelled,2025-11-17 16:57:44.700775
+2d29785c,DRV-2741,3,New York,Brooklyn,Staten Island,19.98,64,50.28,2.58,52.86,Credit Card,Electric,4.8,Cancelled,2025-11-17 16:57:43.757893
+c198f487,DRV-4397,3,Chicago,Wicker Park,Lincoln Park,23.99,98,97.6,2.03,99.63,Digital Wallet,SUV,4.78,Completed,2025-11-17 16:57:43.193146
+361c082a,DRV-3984,2,New York,Queens,Brooklyn,31.72,87,163.56,6.28,169.84,Credit Card,Economy,4.76,Cancelled,2025-11-17 16:57:41.315852
+794e5999,DRV-4201,2,Miami,Coral Gables,Downtown,14.7,43,34.66,8.69,43.35,Credit Card,Electric,4.6,In Progress,2025-11-17 16:57:40.530961
+a66c088e,DRV-1680,3,San Francisco,Mission District,Financial District,18.73,53,65.94,8.52,74.46,Corporate Account,Premium,4.91,In Progress,2025-11-17 16:57:39.819212
+510f0c0c,DRV-9887,2,New York,Bronx,Queens,27.1,94,75.55,0.0,75.55,Credit Card,Electric,4.54,Cancelled,2025-11-17 16:57:38.984976
+347f53a2,DRV-4526,3,Chicago,Wicker Park,Navy Pier,5.25,14,14.08,4.68,18.76,Cash,Premium,4.83,Completed,2025-11-17 16:57:37.238813
+50bf70b4,DRV-4042,4,San Francisco,Downtown,Fisherman's Wharf,20.36,87,38.49,0.0,38.49,Corporate Account,Electric,4.95,Cancelled,2025-11-17 16:57:36.553883
+8279828e,DRV-1401,3,New York,Staten Island,Bronx,34.72,147,132.14,3.5,135.64,Corporate Account,Economy,4.58,Completed,2025-11-17 16:57:35.749162
+66c21c7b,DRV-9971,3,New York,Bronx,Queens,21.87,95,61.78,7.42,69.2,Debit Card,SUV,4.88,In Progress,2025-11-17 16:57:33.882527
+be63be22,DRV-3985,2,San Francisco,Downtown,Mission District,20.59,59,44.4,4.0,48.4,Cash,Comfort,4.81,Completed,2025-11-17 16:57:32.161844
+6c61f6a2,DRV-5666,2,Los Angeles,Hollywood,Downtown,27.12,76,84.51,0.0,84.51,Cash,Comfort,4.52,In Progress,2025-11-17 16:57:30.156590
+63f4405e,DRV-3230,2,Los Angeles,Beverly Hills,Santa Monica,16.1,42,52.76,9.65,62.41,Debit Card,SUV,4.83,In Progress,2025-11-17 16:57:29.354364
+9501cf0e,DRV-7703,1,Los Angeles,Santa Monica,Downtown,10.4,38,24.56,5.01,29.57,Cash,Comfort,4.57,In Progress,2025-11-17 16:57:27.951939
+3b7e1507,DRV-9523,3,San Francisco,Fisherman's Wharf,Mission District,34.85,112,85.32,8.76,94.08,Credit Card,SUV,4.99,Cancelled,2025-11-17 16:57:27.147180
+fc9d3332,DRV-9652,3,Los Angeles,Hollywood,Santa Monica,14.06,37,34.79,4.15,38.94,Cash,Premium,4.8,Cancelled,2025-11-17 16:57:26.606568
+26c1cc3b,DRV-4600,3,Los Angeles,Hollywood,Santa Monica,6.53,22,23.74,4.68,28.42,Debit Card,Comfort,4.93,Cancelled,2025-11-17 16:57:25.093060
+22a2447c,DRV-7351,2,New York,LaGuardia Airport,Queens,17.44,71,49.1,3.98,53.08,Digital Wallet,Economy,4.79,Cancelled,2025-11-17 16:57:23.415143
+abaf18a8,DRV-1823,3,Chicago,River North,Navy Pier,2.49,8,24.63,6.31,30.94,Debit Card,Premium,4.65,Cancelled,2025-11-17 16:57:22.885131
+f2a16a08,DRV-7377,1,San Francisco,Fisherman's Wharf,Financial District,13.32,42,37.31,0.0,37.31,Cash,SUV,4.82,Completed,2025-11-17 16:57:21.339833
+8389f973,DRV-2812,3,Los Angeles,Santa Monica,LAX Airport,25.86,84,51.93,8.45,60.38,Digital Wallet,Economy,4.89,Completed,2025-11-17 16:57:20.579116
+7b515ca8,DRV-3755,4,Chicago,River North,Navy Pier,7.8,19,25.03,3.54,28.57,Corporate Account,Premium,4.51,Cancelled,2025-11-17 16:57:18.823176
+1ab22c9c,DRV-1815,3,Chicago,Loop,Navy Pier,25.67,89,119.26,7.09,126.35,Credit Card,SUV,4.64,Completed,2025-11-17 16:57:17.459814
+f672729c,DRV-6613,3,San Francisco,Mission District,Financial District,9.43,33,23.85,4.24,28.09,Corporate Account,Economy,4.8,Completed,2025-11-17 16:57:16.527790
+01b2cd36,DRV-6592,4,Los Angeles,Venice Beach,Beverly Hills,34.61,144,105.76,6.79,112.55,Credit Card,Electric,4.94,Completed,2025-11-17 16:57:14.839818
+19253043,DRV-6392,2,San Francisco,Mission District,Downtown,13.84,44,33.48,9.41,42.89,Corporate Account,Comfort,4.52,Cancelled,2025-11-17 16:57:14.164841
+e6f0b0c3,DRV-5366,4,Miami,MIA Airport,Brickell,2.54,9,11.59,0.0,11.59,Digital Wallet,SUV,4.73,Cancelled,2025-11-17 16:57:13.437083
+ae0cc3a1,DRV-3136,1,Miami,Wynwood,Coral Gables,30.12,114,88.8,2.25,91.05,Credit Card,Electric,4.85,Cancelled,2025-11-17 16:57:11.435570
+8430daab,DRV-2632,1,Chicago,Lincoln Park,River North,11.86,29,32.68,5.28,37.96,Debit Card,Economy,4.56,Completed,2025-11-17 16:57:10.906275
+62014437,DRV-4001,3,New York,Queens,Bronx,23.91,87,43.88,0.0,43.88,Digital Wallet,Electric,4.78,Completed,2025-11-17 16:57:09.923074
+1776282d,DRV-5171,2,New York,JFK Airport,Manhattan,21.78,83,46.53,4.3,50.83,Corporate Account,Electric,4.87,Completed,2025-11-17 16:57:08.432653
+91e6aa50,DRV-5159,3,New York,Brooklyn,Manhattan,19.06,83,44.95,0.0,44.95,Debit Card,Electric,4.68,Cancelled,2025-11-17 16:57:07.309729
+81211a51,DRV-5167,2,San Francisco,Marina,Downtown,20.06,54,55.35,8.82,64.17,Corporate Account,Electric,4.99,Cancelled,2025-11-17 16:57:06.343799
+fefd8d42,DRV-8077,1,New York,Bronx,Queens,23.77,99,109.22,2.72,111.94,Cash,SUV,4.99,Completed,2025-11-17 16:57:05.409482
+1d37690f,DRV-6843,4,New York,Queens,Manhattan,16.51,58,56.15,4.8,60.95,Debit Card,Premium,4.69,Cancelled,2025-11-17 16:57:03.442040
+285106a6,DRV-7477,2,Chicago,Wicker Park,Navy Pier,8.84,27,20.93,8.25,29.18,Digital Wallet,Economy,4.58,In Progress,2025-11-17 16:57:01.614569
+bd34d455,DRV-6305,1,Miami,Wynwood,South Beach,13.94,34,30.64,5.97,36.61,Corporate Account,Electric,4.8,In Progress,2025-11-17 16:56:59.911707
+eb910c2d,DRV-8837,2,Miami,South Beach,Brickell,31.31,100,158.83,0.0,158.83,Cash,Electric,4.57,Cancelled,2025-11-17 16:56:58.090187
+5f1fdfef,DRV-6533,4,San Francisco,Fisherman's Wharf,SFO Airport,2.78,10,13.28,0.0,13.28,Credit Card,Economy,4.9,In Progress,2025-11-17 16:56:56.425064
+b92fd29a,DRV-1990,3,Chicago,Wicker Park,Navy Pier,28.24,97,159.04,3.96,163.0,Digital Wallet,SUV,4.8,In Progress,2025-11-17 16:56:55.692343
+fcf88b5e,DRV-5776,3,New York,Manhattan,LaGuardia Airport,3.96,16,11.09,3.64,14.73,Cash,SUV,4.92,In Progress,2025-11-17 16:56:53.813223
+f6e63b92,DRV-1353,1,Miami,MIA Airport,South Beach,32.02,87,85.86,0.0,85.86,Cash,SUV,4.6,Cancelled,2025-11-17 16:56:51.962570
+cf0d3c27,DRV-8664,2,Chicago,Wicker Park,O'Hare Airport,7.9,22,25.48,0.0,25.48,Corporate Account,Electric,4.55,Completed,2025-11-17 16:56:50.928633
+0b3beed8,DRV-7386,1,San Francisco,Marina,Mission District,5.23,15,16.76,6.42,23.18,Cash,Economy,4.9,In Progress,2025-11-17 16:56:49.719833
+bfd17b01,DRV-8887,1,Miami,South Beach,MIA Airport,19.51,86,57.33,8.79,66.12,Credit Card,Premium,4.64,Completed,2025-11-17 16:56:48.725407
+fd28633c,DRV-7412,2,San Francisco,Downtown,Financial District,17.54,63,36.8,0.0,36.8,Debit Card,SUV,4.71,Cancelled,2025-11-17 16:56:47.809524
+573b70b0,DRV-5874,1,Los Angeles,Beverly Hills,Venice Beach,7.12,20,34.69,7.64,42.33,Credit Card,SUV,4.61,In Progress,2025-11-17 16:56:46.810666
+01b42c7d,DRV-4085,1,San Francisco,Financial District,Downtown,19.02,64,42.14,2.06,44.2,Cash,SUV,4.82,In Progress,2025-11-17 16:56:45.278113
+9ceca710,DRV-4292,4,Los Angeles,Downtown,Santa Monica,25.4,66,50.93,0.0,50.93,Corporate Account,Electric,4.54,In Progress,2025-11-17 16:56:43.618814
+b9215419,DRV-4379,4,Los Angeles,Venice Beach,LAX Airport,8.28,33,21.38,0.0,21.38,Corporate Account,Premium,4.9,In Progress,2025-11-17 16:56:43.005436
+cc347be4,DRV-8268,4,Chicago,Navy Pier,O'Hare Airport,32.97,122,109.62,3.44,113.06,Cash,Electric,4.91,Cancelled,2025-11-17 16:56:41.643984
+860db1ee,DRV-4038,2,New York,Queens,LaGuardia Airport,20.96,84,126.37,5.33,131.7,Digital Wallet,Electric,4.8,Completed,2025-11-17 16:56:40.402096
+1dbf8fac,DRV-5812,1,Los Angeles,Hollywood,Santa Monica,23.95,92,49.48,6.01,55.49,Debit Card,Economy,4.95,Cancelled,2025-11-17 16:56:39.639188
+6dd4b343,DRV-8985,4,Miami,Downtown,MIA Airport,14.65,50,27.58,4.26,31.84,Credit Card,Electric,4.71,Cancelled,2025-11-17 16:56:38.506146
+f64d0e1a,DRV-5795,4,New York,Staten Island,Manhattan,14.17,52,45.03,4.36,49.39,Credit Card,Comfort,4.5,Completed,2025-11-17 16:56:37.090437
+b209f7d8,DRV-8491,3,San Francisco,Marina,SFO Airport,31.47,100,91.92,5.63,97.55,Digital Wallet,Premium,4.67,In Progress,2025-11-17 16:56:35.200413
+95b1a1f3,DRV-7208,3,Chicago,River North,Navy Pier,34.33,92,208.74,8.46,217.2,Corporate Account,Comfort,4.61,Cancelled,2025-11-17 16:56:34.488087
+d277188c,DRV-3943,1,San Francisco,Downtown,Marina,19.08,79,58.71,8.02,66.73,Cash,Premium,4.6,In Progress,2025-11-17 16:56:33.959723
+df577b35,DRV-5403,1,Los Angeles,Beverly Hills,Downtown,3.48,14,28.44,8.84,37.28,Corporate Account,Comfort,4.92,In Progress,2025-11-17 16:56:32.115755
+d31e26e4,DRV-7562,2,Miami,Downtown,Wynwood,9.55,27,24.68,9.89,34.57,Digital Wallet,Economy,4.61,Cancelled,2025-11-17 16:56:30.443633
+d54b18da,DRV-2076,3,San Francisco,Mission District,SFO Airport,27.39,121,52.53,6.22,58.75,Digital Wallet,Premium,4.8,Completed,2025-11-17 16:56:28.911053
+6b30eb63,DRV-4791,2,Los Angeles,LAX Airport,Beverly Hills,18.76,70,54.09,0.0,54.09,Debit Card,Premium,4.68,In Progress,2025-11-17 16:56:27.817786
+a6e026d6,DRV-2394,1,Los Angeles,Hollywood,Beverly Hills,2.85,10,12.32,5.67,17.99,Credit Card,Economy,4.75,Cancelled,2025-11-17 16:56:26.968972
+ee66759a,DRV-8391,4,Chicago,O'Hare Airport,Loop,21.09,83,39.67,4.63,44.3,Corporate Account,Comfort,4.7,In Progress,2025-11-17 16:56:25.822984
+30698349,DRV-8598,3,New York,Bronx,Brooklyn,34.6,154,94.64,6.98,101.62,Debit Card,Economy,4.53,In Progress,2025-11-17 16:56:24.225200
+e53047d6,DRV-7379,1,Miami,Brickell,MIA Airport,33.66,95,65.53,0.0,65.53,Cash,Economy,4.97,In Progress,2025-11-17 16:56:22.717747
+58348d7d,DRV-5528,3,Chicago,Wicker Park,O'Hare Airport,24.0,64,43.6,0.0,43.6,Credit Card,Comfort,4.73,In Progress,2025-11-17 16:56:21.360574
+da539f34,DRV-8777,1,San Francisco,Mission District,SFO Airport,34.81,125,91.25,3.99,95.24,Cash,Economy,4.51,Cancelled,2025-11-17 16:56:19.567962
+2cae83af,DRV-5185,1,Los Angeles,Downtown,Venice Beach,6.6,24,16.09,6.48,22.57,Debit Card,SUV,4.62,Cancelled,2025-11-17 16:56:18.592697
+b7233032,DRV-4188,3,New York,LaGuardia Airport,JFK Airport,9.68,38,25.77,7.74,33.51,Cash,Electric,4.74,In Progress,2025-11-17 16:56:17.385103
+664d22d2,DRV-4147,3,Los Angeles,Santa Monica,Hollywood,30.45,115,79.64,5.29,84.93,Corporate Account,Electric,4.97,In Progress,2025-11-17 16:56:16.839176
+566d7874,DRV-4377,2,New York,LaGuardia Airport,Manhattan,3.39,14,13.29,4.72,18.01,Credit Card,SUV,4.85,Cancelled,2025-11-17 16:56:15.221858
+ecae31aa,DRV-6786,3,Los Angeles,Venice Beach,Hollywood,10.5,45,21.38,0.0,21.38,Corporate Account,Economy,4.54,In Progress,2025-11-17 16:56:13.801916
+9dd8f8cb,DRV-2743,3,New York,Manhattan,Brooklyn,28.9,119,152.75,0.0,152.75,Digital Wallet,Economy,4.77,In Progress,2025-11-17 16:56:12.774908
+5407ff2c,DRV-6445,3,Los Angeles,Hollywood,Downtown,31.94,140,216.72,3.01,219.73,Credit Card,Premium,4.93,Cancelled,2025-11-17 16:56:10.988814
+e5c47991,DRV-7862,3,Los Angeles,Venice Beach,Santa Monica,30.5,132,65.08,3.99,69.07,Debit Card,Electric,4.56,Completed,2025-11-17 16:56:09.840636
+e2241172,DRV-2260,2,Los Angeles,Venice Beach,Hollywood,9.81,36,25.68,3.8,29.48,Corporate Account,SUV,4.99,In Progress,2025-11-17 16:56:09.305559
+43859fe7,DRV-1036,1,New York,Manhattan,Bronx,7.45,24,24.29,7.36,31.65,Debit Card,Premium,4.71,Cancelled,2025-11-17 16:56:08.091508
+f1fd97d3,DRV-2801,4,New York,Bronx,Brooklyn,22.43,96,65.25,6.03,71.28,Debit Card,Economy,4.59,In Progress,2025-11-17 16:56:06.985458
+7f9ea73e,DRV-3162,1,New York,Brooklyn,Queens,4.41,11,13.41,0.0,13.41,Digital Wallet,Premium,4.56,Completed,2025-11-17 16:56:06.317650
+1b2ea092,DRV-5526,4,Los Angeles,Downtown,Beverly Hills,4.58,17,17.76,2.69,20.45,Digital Wallet,Electric,4.77,In Progress,2025-11-17 16:56:04.722374
+4b32a2d4,DRV-5700,3,Chicago,Navy Pier,Wicker Park,34.48,125,66.16,0.0,66.16,Digital Wallet,SUV,4.65,Cancelled,2025-11-17 16:56:03.130665
+8ce57275,DRV-6105,1,San Francisco,Financial District,Mission District,8.21,29,27.67,0.0,27.67,Credit Card,Electric,4.57,Cancelled,2025-11-17 16:56:02.334759
+86f20da1,DRV-2165,2,San Francisco,Marina,SFO Airport,3.72,9,36.03,0.0,36.03,Corporate Account,SUV,4.96,Cancelled,2025-11-17 16:56:01.187796
+2c8533a5,DRV-7932,2,Miami,Wynwood,Brickell,17.01,47,33.87,3.5,37.37,Cash,Premium,4.76,In Progress,2025-11-17 16:55:59.360081
+bffe972b,DRV-5972,1,San Francisco,SFO Airport,Mission District,26.69,90,78.01,0.0,78.01,Debit Card,Comfort,4.98,In Progress,2025-11-17 16:55:58.188056
+fe3f5fda,DRV-6606,1,San Francisco,Marina,Fisherman's Wharf,21.31,82,60.0,8.34,68.34,Digital Wallet,Electric,4.98,In Progress,2025-11-17 16:55:57.462950
+61a7efc1,DRV-2137,2,Miami,MIA Airport,Wynwood,10.45,44,27.38,4.09,31.47,Credit Card,Electric,4.68,Cancelled,2025-11-17 16:55:56.460176
+3e33a1bb,DRV-2609,1,Los Angeles,Hollywood,Venice Beach,27.95,124,143.51,0.0,143.51,Corporate Account,Premium,4.96,Cancelled,2025-11-17 16:55:55.474320
+990f0c52,DRV-4937,3,San Francisco,Fisherman's Wharf,Financial District,8.02,35,27.63,5.97,33.6,Cash,Economy,4.5,Cancelled,2025-11-17 16:55:54.271037
+6ccda174,DRV-4238,1,San Francisco,Financial District,Fisherman's Wharf,20.18,69,72.37,0.0,72.37,Digital Wallet,SUV,4.94,In Progress,2025-11-17 16:55:53.038586
+31c88258,DRV-2949,3,Chicago,Loop,Lincoln Park,34.75,145,84.3,7.43,91.73,Debit Card,Comfort,4.54,Completed,2025-11-17 16:55:51.223503
+e80b7519,DRV-2552,4,San Francisco,Mission District,Financial District,24.06,62,68.35,3.61,71.96,Cash,Electric,4.77,Cancelled,2025-11-17 16:55:50.651463
+bdc62255,DRV-2510,2,Miami,Brickell,MIA Airport,33.8,104,97.95,3.15,101.1,Debit Card,Economy,4.6,In Progress,2025-11-17 16:55:48.769812
+193318ff,DRV-9373,3,San Francisco,Marina,Mission District,4.11,10,33.32,0.0,33.32,Cash,Electric,4.94,Completed,2025-11-17 16:55:48.115348
+c2fc5b03,DRV-2170,3,Chicago,Wicker Park,Lincoln Park,22.15,65,58.11,0.0,58.11,Digital Wallet,Economy,4.63,Completed,2025-11-17 16:55:46.523535
+fe1823b6,DRV-7021,1,Chicago,Wicker Park,O'Hare Airport,8.88,36,19.47,2.16,21.63,Credit Card,Electric,4.62,Completed,2025-11-17 16:55:45.896884
+f4833acc,DRV-8018,2,Los Angeles,Downtown,Hollywood,28.86,74,81.99,3.66,85.65,Corporate Account,SUV,4.5,Cancelled,2025-11-17 16:55:44.569855
+96c4d16d,DRV-7761,4,Chicago,Lincoln Park,Navy Pier,30.63,94,94.6,4.12,98.72,Debit Card,Comfort,4.53,Completed,2025-11-17 16:55:43.579959
+52745001,DRV-4281,1,New York,Queens,LaGuardia Airport,8.86,35,18.86,0.0,18.86,Corporate Account,SUV,4.77,In Progress,2025-11-17 16:55:41.736215
+26c04cb3,DRV-9717,3,Los Angeles,Santa Monica,Venice Beach,5.02,15,15.56,0.0,15.56,Corporate Account,Economy,4.9,Completed,2025-11-17 16:55:40.692513
+020b3032,DRV-2221,3,Los Angeles,Venice Beach,Hollywood,21.24,93,38.28,3.4,41.68,Cash,Economy,4.6,In Progress,2025-11-17 16:55:38.833586
+50f197bc,DRV-9425,1,Los Angeles,Downtown,Beverly Hills,17.84,53,53.53,8.47,62.0,Corporate Account,Comfort,4.69,Cancelled,2025-11-17 16:55:37.709896
+60cfb30e,DRV-6371,4,San Francisco,Marina,SFO Airport,30.17,108,126.0,2.59,128.59,Debit Card,Economy,4.94,Cancelled,2025-11-17 16:55:35.963131
+87c6c3da,DRV-6421,1,Los Angeles,Venice Beach,Beverly Hills,16.23,44,30.18,0.0,30.18,Digital Wallet,Electric,4.81,Cancelled,2025-11-17 16:55:34.666121
+67363daf,DRV-4612,4,Chicago,O'Hare Airport,River North,21.61,96,62.57,5.77,68.34,Credit Card,Comfort,4.67,Cancelled,2025-11-17 16:55:32.761546
+35c590d6,DRV-6388,2,New York,Bronx,LaGuardia Airport,3.76,11,11.78,0.0,11.78,Debit Card,Comfort,4.6,Cancelled,2025-11-17 16:55:31.491796
+b17463f5,DRV-8476,2,Miami,Wynwood,Coral Gables,13.23,48,86.53,7.78,94.31,Digital Wallet,Premium,4.63,Completed,2025-11-17 16:55:29.841389
+bad93ad4,DRV-2502,1,Los Angeles,Venice Beach,Santa Monica,22.94,59,62.63,6.68,69.31,Debit Card,Comfort,4.82,Completed,2025-11-17 16:55:28.961482
+2a6f8862,DRV-9852,1,San Francisco,Fisherman's Wharf,Downtown,30.52,131,74.25,6.24,80.49,Debit Card,Economy,4.71,In Progress,2025-11-17 16:55:27.664867
+73f1f8e5,DRV-3307,1,New York,JFK Airport,Manhattan,15.34,42,36.1,0.0,36.1,Corporate Account,Comfort,4.66,In Progress,2025-11-17 16:55:25.982545
+28d4d7b7,DRV-3527,1,Miami,South Beach,Wynwood,12.16,32,26.83,9.26,36.09,Credit Card,Comfort,4.51,Cancelled,2025-11-17 16:55:25.276379
+98eca391,DRV-8321,3,Miami,MIA Airport,Brickell,28.49,116,89.26,5.76,95.02,Corporate Account,Electric,4.53,In Progress,2025-11-17 16:55:24.401495
+0fe7f702,DRV-1781,3,Los Angeles,LAX Airport,Venice Beach,22.01,79,60.2,9.0,69.2,Digital Wallet,Electric,4.55,In Progress,2025-11-17 16:55:23.320487
+0d8e0ce8,DRV-4488,1,San Francisco,Downtown,Fisherman's Wharf,28.01,71,73.44,4.9,78.34,Debit Card,SUV,4.63,Cancelled,2025-11-17 16:55:21.888249
+f0da5584,DRV-8642,2,New York,LaGuardia Airport,JFK Airport,30.41,109,68.14,3.25,71.39,Corporate Account,Economy,4.86,In Progress,2025-11-17 16:55:20.947853
+41f34a8c,DRV-3298,3,San Francisco,SFO Airport,Fisherman's Wharf,10.35,36,25.72,3.06,28.78,Corporate Account,Electric,4.62,Cancelled,2025-11-17 16:55:19.063038
+b60ce1ba,DRV-6251,3,San Francisco,SFO Airport,Financial District,20.24,64,49.06,0.0,49.06,Debit Card,Comfort,4.63,Cancelled,2025-11-17 16:55:17.243282
+f2ecab75,DRV-4342,1,San Francisco,SFO Airport,Financial District,33.62,138,84.06,7.39,91.45,Cash,Comfort,4.55,Completed,2025-11-17 16:55:15.849826
+51013ead,DRV-7833,3,Miami,Coral Gables,MIA Airport,25.08,93,52.6,4.98,57.58,Credit Card,Premium,4.61,Completed,2025-11-17 16:55:13.930162
+623b116d,DRV-4942,2,Chicago,River North,Wicker Park,15.95,68,30.49,2.51,33.0,Credit Card,Premium,4.59,In Progress,2025-11-17 16:55:12.876782
+a377d18c,DRV-8807,2,Chicago,Wicker Park,Navy Pier,20.95,84,52.24,4.85,57.09,Debit Card,Premium,4.87,Completed,2025-11-17 16:55:11.027145
+912bec6b,DRV-4363,2,San Francisco,Financial District,Fisherman's Wharf,7.06,28,17.85,5.5,23.35,Digital Wallet,SUV,4.62,In Progress,2025-11-17 16:55:10.188197
+9e3e3c8b,DRV-2035,3,Miami,Downtown,MIA Airport,7.6,26,26.82,7.19,34.01,Debit Card,Electric,5.0,In Progress,2025-11-17 16:55:08.568819
+84a2527e,DRV-4548,4,Los Angeles,Beverly Hills,Hollywood,29.39,91,170.97,7.07,178.04,Corporate Account,Electric,4.63,Completed,2025-11-17 16:55:07.652289
+7f5038f6,DRV-7451,2,Miami,Wynwood,Downtown,6.84,28,17.6,4.17,21.77,Corporate Account,Premium,4.89,In Progress,2025-11-17 16:55:06.402497
+672fd6b5,DRV-3808,4,Miami,Wynwood,South Beach,25.36,78,51.65,7.7,59.35,Corporate Account,Electric,4.66,Completed,2025-11-17 16:55:05.733230
+2c936721,DRV-2040,2,New York,Staten Island,Brooklyn,5.99,16,20.42,6.84,27.26,Debit Card,Comfort,4.85,Completed,2025-11-17 16:55:03.847740
+ef5c318b,DRV-1916,4,Chicago,River North,Lincoln Park,8.54,30,29.67,0.0,29.67,Cash,SUV,4.88,Completed,2025-11-17 16:55:02.000701
+12457335,DRV-8143,1,Miami,South Beach,Wynwood,6.13,22,15.72,6.41,22.13,Corporate Account,Premium,4.52,Completed,2025-11-17 16:55:00.441751
+3dfb4033,DRV-9422,3,Chicago,Wicker Park,Navy Pier,21.45,73,94.95,2.52,97.47,Debit Card,SUV,4.69,In Progress,2025-11-17 16:54:59.104012
+c800996d,DRV-2384,2,Los Angeles,Venice Beach,Hollywood,2.35,8,27.78,4.51,32.29,Corporate Account,Premium,4.75,In Progress,2025-11-17 16:54:57.593529
+ad8db17a,DRV-7451,4,New York,Bronx,LaGuardia Airport,34.48,132,90.58,0.0,90.58,Cash,Economy,4.59,Cancelled,2025-11-17 16:54:55.913800
+b002d299,DRV-4187,3,Los Angeles,Hollywood,Santa Monica,2.59,11,11.17,5.01,16.18,Digital Wallet,Comfort,4.9,Completed,2025-11-17 16:54:54.338879
+92e94f7c,DRV-6599,3,San Francisco,SFO Airport,Marina,16.78,49,32.1,0.0,32.1,Cash,Electric,4.57,Completed,2025-11-17 16:54:53.431897
+0680119c,DRV-1331,3,San Francisco,SFO Airport,Marina,12.83,49,25.05,8.19,33.24,Corporate Account,Premium,4.56,Cancelled,2025-11-17 16:54:52.753999
+c71936a3,DRV-3996,3,San Francisco,SFO Airport,Financial District,5.56,14,18.26,6.18,24.44,Credit Card,Comfort,4.67,Cancelled,2025-11-17 16:54:51.602121
+f08de2da,DRV-3574,3,Miami,Wynwood,Coral Gables,4.64,15,16.56,0.0,16.56,Debit Card,Electric,4.72,Completed,2025-11-17 16:54:50.539029
+50110310,DRV-7699,2,Los Angeles,Venice Beach,Downtown,30.3,90,78.04,6.9,84.94,Cash,SUV,4.76,Cancelled,2025-11-17 16:54:48.586132
+390eaca5,DRV-6669,3,New York,Manhattan,Queens,5.31,14,23.48,5.53,29.01,Digital Wallet,Electric,4.54,In Progress,2025-11-17 16:54:47.900587
+abb85a9a,DRV-7667,1,San Francisco,Downtown,SFO Airport,34.5,118,156.94,6.03,162.97,Debit Card,SUV,4.93,Completed,2025-11-17 16:54:46.588946
+79b14a18,DRV-5175,4,New York,Queens,Staten Island,18.62,56,41.95,2.09,44.04,Credit Card,Comfort,4.85,Completed,2025-11-17 16:54:45.071997
+3a603510,DRV-4281,1,Miami,MIA Airport,Coral Gables,5.24,14,18.49,0.0,18.49,Corporate Account,SUV,4.57,Cancelled,2025-11-17 16:54:44.228512
+8c5108e6,DRV-6382,3,San Francisco,Fisherman's Wharf,Downtown,4.82,21,16.37,2.43,18.8,Debit Card,SUV,4.52,Cancelled,2025-11-17 16:54:42.858780
+d224016b,DRV-8920,1,San Francisco,Fisherman's Wharf,Financial District,22.29,70,59.64,0.0,59.64,Corporate Account,Premium,4.91,In Progress,2025-11-17 16:54:41.162308
+2a547ea3,DRV-8006,2,Los Angeles,Hollywood,LAX Airport,23.04,69,57.53,7.24,64.77,Cash,Economy,4.96,Cancelled,2025-11-17 16:54:39.204843
+92f7c043,DRV-8413,4,Chicago,Lincoln Park,Wicker Park,15.53,45,79.08,6.64,85.72,Corporate Account,Electric,4.88,In Progress,2025-11-17 16:54:37.693648
+1667cbaf,DRV-6381,3,Los Angeles,Santa Monica,Beverly Hills,24.18,77,48.31,0.0,48.31,Corporate Account,Premium,4.69,Completed,2025-11-17 16:54:37.123357
+8d785fb1,DRV-6552,4,Los Angeles,Downtown,Santa Monica,21.34,61,53.8,0.0,53.8,Cash,Premium,4.78,In Progress,2025-11-17 16:54:35.598654
+ae881888,DRV-5592,3,Miami,Downtown,Wynwood,25.72,100,150.24,7.09,157.33,Digital Wallet,Comfort,4.58,Completed,2025-11-17 16:54:34.965813
+c14fd135,DRV-9914,4,Chicago,Navy Pier,Loop,27.8,84,52.9,7.68,60.58,Corporate Account,Premium,4.52,Completed,2025-11-17 16:54:33.394749
+1dfc1918,DRV-7468,4,San Francisco,Marina,SFO Airport,27.25,102,75.8,4.98,80.78,Cash,Premium,4.73,Completed,2025-11-17 16:54:31.789635
+862d0cd2,DRV-3767,1,Chicago,Loop,Navy Pier,15.02,63,71.33,0.0,71.33,Credit Card,Comfort,4.77,Completed,2025-11-17 16:54:30.457158
+843d4f29,DRV-2181,3,Chicago,O'Hare Airport,Navy Pier,9.33,32,22.43,7.12,29.55,Digital Wallet,Premium,4.81,Cancelled,2025-11-17 16:54:28.872657
+8ac985d6,DRV-1458,3,Miami,Downtown,South Beach,32.04,100,88.67,0.0,88.67,Corporate Account,Electric,4.99,Completed,2025-11-17 16:54:27.203964
+14467403,DRV-7507,4,San Francisco,Mission District,Downtown,18.15,61,51.16,4.48,55.64,Cash,SUV,4.75,Completed,2025-11-17 16:54:26.411148
+182c8a4f,DRV-7878,1,San Francisco,Marina,Fisherman's Wharf,31.25,133,73.57,6.07,79.64,Digital Wallet,SUV,4.6,Cancelled,2025-11-17 16:54:25.546690
+899c7e34,DRV-8031,1,New York,Manhattan,Bronx,18.7,58,56.42,2.32,58.74,Corporate Account,Electric,4.8,In Progress,2025-11-17 16:54:23.858359
+fe096e98,DRV-5584,4,Los Angeles,Beverly Hills,Santa Monica,2.97,10,11.49,2.87,14.36,Credit Card,Comfort,4.97,Completed,2025-11-17 16:54:22.746664
+5c2b3b57,DRV-7067,1,Los Angeles,Downtown,Santa Monica,34.77,152,60.87,8.22,69.09,Credit Card,SUV,4.6,Completed,2025-11-17 16:54:21.701974
+ad9a60e8,DRV-6125,4,Chicago,Lincoln Park,River North,34.84,139,58.72,4.11,62.83,Corporate Account,Electric,4.93,Cancelled,2025-11-17 16:54:19.891551
+337cf3e9,DRV-7645,1,Miami,MIA Airport,Wynwood,15.57,57,32.01,0.0,32.01,Debit Card,Comfort,4.86,Cancelled,2025-11-17 16:54:19.004922
+4ecb73ce,DRV-3886,1,Los Angeles,Venice Beach,Downtown,5.86,25,15.97,8.91,24.88,Cash,Electric,4.92,Cancelled,2025-11-17 16:54:17.356578
+edd83576,DRV-6908,1,Miami,Wynwood,MIA Airport,16.59,44,41.03,5.86,46.89,Digital Wallet,Comfort,4.64,In Progress,2025-11-17 16:54:15.817906
+15da6f9f,DRV-5937,1,Chicago,O'Hare Airport,Lincoln Park,2.13,8,10.46,0.0,10.46,Digital Wallet,Comfort,4.83,Completed,2025-11-17 16:54:13.984627
+9f845d03,DRV-5016,1,Chicago,Lincoln Park,O'Hare Airport,7.69,22,25.49,0.0,25.49,Debit Card,Economy,4.53,Completed,2025-11-17 16:54:13.433540
+1e3fd28a,DRV-4832,3,New York,Manhattan,LaGuardia Airport,11.22,41,37.92,0.0,37.92,Credit Card,Comfort,4.94,In Progress,2025-11-17 16:54:12.093381
+ed5c2a82,DRV-7237,1,San Francisco,Downtown,Financial District,27.17,88,70.59,6.81,77.4,Digital Wallet,Premium,4.83,Completed,2025-11-17 16:54:11.515471
+2651b785,DRV-8250,2,New York,Brooklyn,Queens,14.05,36,26.67,0.0,26.67,Credit Card,Premium,4.98,Completed,2025-11-17 16:54:09.934101
+b2e7c51e,DRV-8975,4,San Francisco,Mission District,Fisherman's Wharf,34.51,125,60.92,8.59,69.51,Cash,Electric,4.78,Cancelled,2025-11-17 16:54:08.654430
+ab49264f,DRV-1481,4,Los Angeles,Venice Beach,Santa Monica,24.83,70,53.5,2.54,56.04,Cash,Electric,4.52,Completed,2025-11-17 16:54:07.789011
+645aca2a,DRV-2369,1,New York,Manhattan,Staten Island,25.08,100,70.98,8.85,79.83,Digital Wallet,Economy,5.0,Completed,2025-11-17 16:54:05.826221
+5ed3275c,DRV-6398,4,Los Angeles,Beverly Hills,Downtown,26.85,107,76.85,0.0,76.85,Debit Card,Economy,4.71,Completed,2025-11-17 16:54:04.561901
+bcc93960,DRV-4791,4,New York,Staten Island,Bronx,6.83,29,19.21,5.28,24.49,Cash,Comfort,4.83,Completed,2025-11-17 16:54:02.617711
+67c21f55,DRV-9593,3,Chicago,Lincoln Park,Loop,4.19,18,29.7,5.94,35.64,Debit Card,Premium,4.91,Cancelled,2025-11-17 16:54:01.251167
+706d0772,DRV-6872,1,Miami,Brickell,MIA Airport,30.46,111,146.88,6.73,153.61,Credit Card,SUV,4.61,Cancelled,2025-11-17 16:53:59.567945
+0d7db3b1,DRV-6107,2,San Francisco,Mission District,SFO Airport,25.17,69,73.02,6.94,79.96,Credit Card,Electric,4.54,Cancelled,2025-11-17 16:53:57.847866
+6ba986e1,DRV-3328,3,Miami,Wynwood,Downtown,9.21,24,20.95,8.51,29.46,Digital Wallet,SUV,4.57,In Progress,2025-11-17 16:53:57.257134
+63cbaf7a,DRV-5581,1,Miami,MIA Airport,Downtown,4.34,18,11.59,0.0,11.59,Credit Card,Economy,4.6,Completed,2025-11-17 16:53:55.466989
+dab1cc6b,DRV-3903,1,Los Angeles,Hollywood,Beverly Hills,26.46,114,53.41,3.88,57.29,Corporate Account,Electric,4.7,Cancelled,2025-11-17 16:53:53.800146
+c6e039f7,DRV-9754,4,San Francisco,Marina,Mission District,3.78,10,15.04,0.0,15.04,Credit Card,Comfort,4.68,In Progress,2025-11-17 16:53:52.451197
+9a4b53df,DRV-3378,2,San Francisco,Marina,Mission District,19.91,74,42.36,9.5,51.86,Corporate Account,Premium,4.64,Cancelled,2025-11-17 16:53:51.842754
+13fcb412,DRV-6547,3,San Francisco,SFO Airport,Mission District,18.14,80,35.74,0.0,35.74,Debit Card,Economy,4.57,In Progress,2025-11-17 16:53:51.255378
+4a62de35,DRV-1362,4,New York,Bronx,Brooklyn,28.56,111,90.38,7.54,97.92,Corporate Account,Economy,4.66,In Progress,2025-11-17 16:53:49.492999
+67783f6c,DRV-9427,3,San Francisco,Financial District,Marina,10.74,35,23.55,0.0,23.55,Cash,Comfort,4.65,Completed,2025-11-17 16:53:48.725393
+40459ae3,DRV-2124,2,New York,Manhattan,Brooklyn,14.08,52,36.68,0.0,36.68,Credit Card,Economy,4.97,Cancelled,2025-11-17 16:53:47.008868
+ebe9c76b,DRV-9846,2,Miami,Brickell,Downtown,28.13,115,50.26,7.56,57.82,Corporate Account,Economy,4.54,Completed,2025-11-17 16:53:45.200095
+12f50b0b,DRV-6459,2,New York,Brooklyn,Queens,22.87,90,62.98,7.6,70.58,Digital Wallet,Comfort,4.56,In Progress,2025-11-17 16:53:44.023887
+9cee5228,DRV-8360,2,Los Angeles,Beverly Hills,Downtown,5.22,18,13.15,6.65,19.8,Digital Wallet,Electric,4.94,In Progress,2025-11-17 16:53:43.453909
+59163d5c,DRV-3624,1,Los Angeles,Santa Monica,Hollywood,24.02,100,60.91,7.26,68.17,Digital Wallet,Economy,4.77,In Progress,2025-11-17 16:53:42.322570
+ad200626,DRV-9721,2,Miami,Coral Gables,Downtown,12.67,46,29.72,5.7,35.42,Cash,Electric,4.96,Cancelled,2025-11-17 16:53:41.634555
+cd235565,DRV-7862,4,Miami,Downtown,MIA Airport,31.86,128,54.78,2.96,57.74,Cash,Premium,4.98,In Progress,2025-11-17 16:53:39.933717
+45cd899c,DRV-8291,1,Chicago,Loop,Lincoln Park,25.26,77,51.39,6.91,58.3,Cash,Comfort,4.62,Completed,2025-11-17 16:53:39.310255
+facaf7cf,DRV-6535,2,Los Angeles,Venice Beach,LAX Airport,2.64,7,9.08,4.73,13.81,Corporate Account,Economy,4.95,Completed,2025-11-17 16:53:38.056138
+f93fee65,DRV-1470,4,New York,LaGuardia Airport,JFK Airport,10.32,34,46.9,7.63,54.53,Cash,Electric,4.75,Completed,2025-11-17 16:53:37.334332
+c106aeca,DRV-5325,2,San Francisco,Financial District,Fisherman's Wharf,5.98,22,43.46,7.14,50.6,Corporate Account,Electric,4.51,In Progress,2025-11-17 16:53:35.675540
+3deae8cd,DRV-4332,3,Chicago,Loop,Lincoln Park,31.25,117,84.31,9.07,93.38,Debit Card,Economy,4.84,In Progress,2025-11-17 16:53:34.812764
+6e9ebf39,DRV-9548,2,San Francisco,Fisherman's Wharf,Downtown,21.94,64,113.41,0.0,113.41,Credit Card,Economy,4.84,Completed,2025-11-17 16:53:33.247900
+6ad1eecf,DRV-5180,3,Miami,Coral Gables,Wynwood,21.69,70,83.55,0.0,83.55,Debit Card,Comfort,4.67,Cancelled,2025-11-17 16:53:32.362619
+315af2e9,DRV-6455,2,Miami,Coral Gables,Wynwood,12.18,36,30.27,2.33,32.6,Corporate Account,Electric,4.75,Cancelled,2025-11-17 16:53:30.569747
+8798ac3c,DRV-4535,4,Chicago,O'Hare Airport,Navy Pier,16.91,73,76.0,3.5,79.5,Debit Card,Premium,4.73,Completed,2025-11-17 16:53:28.644949
+185e62ec,DRV-3211,3,Miami,Wynwood,Brickell,33.28,122,61.04,9.96,71.0,Cash,SUV,4.97,Completed,2025-11-17 16:53:27.007724
+6ff7a25f,DRV-2329,1,New York,Queens,Bronx,20.12,80,41.5,4.6,46.1,Credit Card,Economy,4.66,In Progress,2025-11-17 16:53:25.031500
+25dcf843,DRV-1122,3,Chicago,Loop,River North,23.44,98,70.96,2.21,73.17,Cash,Economy,4.75,Completed,2025-11-17 16:53:23.024455
+fd623b03,DRV-2239,1,New York,Manhattan,Bronx,34.33,113,67.34,2.79,70.13,Corporate Account,Electric,4.85,Completed,2025-11-17 16:53:21.903791
+9d00d6df,DRV-3279,4,Chicago,River North,Loop,13.15,55,44.14,9.07,53.21,Corporate Account,Comfort,4.93,Completed,2025-11-17 16:53:20.850926
+35e2dd93,DRV-4593,4,Chicago,O'Hare Airport,River North,13.99,58,67.06,8.69,75.75,Corporate Account,Economy,4.64,Cancelled,2025-11-17 16:53:19.177383
+ab2738ce,DRV-6627,3,Los Angeles,Santa Monica,Hollywood,2.21,6,9.98,0.0,9.98,Corporate Account,Economy,4.99,Completed,2025-11-17 16:53:18.504232
+e8c0e14a,DRV-5051,3,Miami,Brickell,Coral Gables,19.69,73,55.58,5.72,61.3,Debit Card,Comfort,4.75,Cancelled,2025-11-17 16:53:17.368337
+5cbf1458,DRV-2039,3,San Francisco,Marina,Mission District,11.14,41,33.22,6.75,39.97,Debit Card,Comfort,4.64,Cancelled,2025-11-17 16:53:15.647398
+311e56e6,DRV-4909,2,Chicago,Navy Pier,Lincoln Park,24.27,65,47.56,7.87,55.43,Corporate Account,Premium,4.69,In Progress,2025-11-17 16:53:14.184363
+79d3495c,DRV-4579,1,Los Angeles,Santa Monica,Downtown,16.28,73,39.53,6.66,46.19,Cash,Electric,4.92,Completed,2025-11-17 16:53:12.709347
+08f452a6,DRV-6673,1,New York,Bronx,Manhattan,30.18,123,55.28,0.0,55.28,Digital Wallet,SUV,4.88,Completed,2025-11-17 16:53:10.744833
+863477c1,DRV-1152,1,San Francisco,Mission District,Marina,22.02,75,38.68,2.71,41.39,Debit Card,Premium,4.53,Cancelled,2025-11-17 16:53:09.739741
+7600b565,DRV-6249,4,New York,JFK Airport,Brooklyn,32.33,96,96.28,4.02,100.3,Debit Card,Comfort,4.99,In Progress,2025-11-17 16:53:08.650008
+a89d097a,DRV-3264,4,New York,Staten Island,Queens,34.25,108,102.13,6.55,108.68,Credit Card,Comfort,4.98,In Progress,2025-11-17 16:53:07.564138
+9c805dce,DRV-1454,4,Miami,Downtown,Coral Gables,31.48,127,71.64,6.39,78.03,Corporate Account,Electric,4.97,Completed,2025-11-17 16:53:07.038001
+b212315e,DRV-2920,1,San Francisco,Mission District,Marina,17.51,49,35.66,4.61,40.27,Digital Wallet,Premium,4.94,Completed,2025-11-17 16:53:05.813258
+a709a604,DRV-5542,1,San Francisco,Financial District,SFO Airport,21.72,79,61.02,8.47,69.49,Corporate Account,Electric,4.73,Cancelled,2025-11-17 16:53:04.830761
+edafb133,DRV-9218,1,Miami,Brickell,South Beach,25.86,109,126.65,6.26,132.91,Digital Wallet,Electric,4.87,In Progress,2025-11-17 16:53:04.142720
+878ced58,DRV-9300,1,Miami,Coral Gables,South Beach,7.87,25,20.54,8.69,29.23,Corporate Account,Electric,4.96,Cancelled,2025-11-17 16:53:03.342506
+4c8aa48a,DRV-9601,3,Los Angeles,Santa Monica,Venice Beach,29.29,100,55.2,0.0,55.2,Corporate Account,Comfort,4.89,Completed,2025-11-17 16:53:01.441726
+7be8bc54,DRV-3218,4,Miami,Brickell,South Beach,22.16,80,67.89,3.29,71.18,Cash,Electric,4.63,Cancelled,2025-11-17 16:53:00.929741
+6b1e3ff6,DRV-1819,1,Chicago,River North,Wicker Park,23.24,82,55.37,4.77,60.14,Cash,Economy,4.84,Cancelled,2025-11-17 16:52:59.192449
+2e2869ab,DRV-7211,4,New York,Brooklyn,LaGuardia Airport,23.84,98,114.33,2.59,116.92,Debit Card,Premium,4.96,Completed,2025-11-17 16:52:58.434884
+26e079f4,DRV-4807,3,Chicago,O'Hare Airport,Loop,24.04,60,57.85,9.32,67.17,Corporate Account,Comfort,4.97,Cancelled,2025-11-17 16:52:56.905301
+9963fec0,DRV-3074,4,New York,Manhattan,Staten Island,9.73,29,24.38,5.0,29.38,Debit Card,Economy,5.0,Completed,2025-11-17 16:52:55.716906
+690a9096,DRV-9590,2,New York,Bronx,Staten Island,31.12,81,89.48,7.96,97.44,Cash,Electric,4.63,Cancelled,2025-11-17 16:52:54.845691
+78fcff21,DRV-1504,2,New York,Queens,JFK Airport,16.74,63,37.43,0.0,37.43,Credit Card,Premium,4.87,In Progress,2025-11-17 16:52:53.004985
+cbd3a5ed,DRV-7189,4,Chicago,Lincoln Park,Navy Pier,19.35,48,35.62,6.53,42.15,Credit Card,Electric,4.78,In Progress,2025-11-17 16:52:51.785322
+3fa44e15,DRV-6378,3,San Francisco,Downtown,Mission District,9.6,34,23.39,7.7,31.09,Debit Card,Premium,4.55,In Progress,2025-11-17 16:52:51.112651
+22f61ad4,DRV-8174,3,New York,LaGuardia Airport,JFK Airport,31.65,127,91.39,5.23,96.62,Corporate Account,Premium,4.58,Completed,2025-11-17 16:52:50.439655
+1d4e2f79,DRV-9275,4,San Francisco,Marina,Fisherman's Wharf,5.77,16,20.37,5.83,26.2,Cash,Electric,4.85,Cancelled,2025-11-17 16:52:49.091502
+99c8baf3,DRV-6793,3,Los Angeles,Hollywood,Santa Monica,28.44,73,71.31,0.0,71.31,Corporate Account,Economy,4.82,Completed,2025-11-17 16:52:48.062376
+054ecad7,DRV-3472,3,New York,LaGuardia Airport,Brooklyn,21.42,63,53.59,7.56,61.15,Credit Card,SUV,4.71,Completed,2025-11-17 16:52:46.506463
+78757f2c,DRV-8622,3,New York,LaGuardia Airport,Queens,28.43,97,93.17,0.0,93.17,Digital Wallet,Premium,4.83,In Progress,2025-11-17 16:52:44.947184
+c91785ae,DRV-8238,4,Miami,Wynwood,Coral Gables,2.78,7,10.21,9.5,19.71,Digital Wallet,Comfort,5.0,Cancelled,2025-11-17 16:52:43.005459
+32003038,DRV-6930,2,Los Angeles,LAX Airport,Santa Monica,15.22,65,37.55,8.24,45.79,Debit Card,Economy,5.0,Completed,2025-11-17 16:52:41.604180
+6c6dc3d1,DRV-1758,2,San Francisco,Mission District,Marina,6.95,30,20.9,8.25,29.15,Digital Wallet,Economy,4.92,Cancelled,2025-11-17 16:52:40.696179
+9c8d9c16,DRV-4810,4,Chicago,O'Hare Airport,Lincoln Park,8.65,24,21.78,0.0,21.78,Corporate Account,Economy,4.72,Completed,2025-11-17 16:52:39.004829
+07061fe4,DRV-9292,4,Miami,Wynwood,South Beach,13.31,39,30.91,9.47,40.38,Corporate Account,Electric,4.58,In Progress,2025-11-17 16:52:37.685302
+ab091224,DRV-7110,4,Chicago,Lincoln Park,O'Hare Airport,28.0,89,69.2,5.41,74.61,Cash,Economy,4.77,Cancelled,2025-11-17 16:52:37.079202
+7826b198,DRV-2317,2,New York,Bronx,JFK Airport,13.72,61,28.26,7.07,35.33,Cash,Economy,4.6,Cancelled,2025-11-17 16:52:35.559074
+efdb4aeb,DRV-6224,2,San Francisco,Marina,Downtown,33.28,95,70.37,2.17,72.54,Corporate Account,Premium,4.66,In Progress,2025-11-17 16:52:34.631096
