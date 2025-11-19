@@ -139,7 +139,7 @@ while True:
             "status",
             "timestamp",
         ]
-        st.dataframe(df_trips[display_cols].head(10), use_container_width=True)
+        st.dataframe(df_trips[display_cols].head(10), width="stretch")
 
         st.markdown("---")
 
@@ -160,7 +160,7 @@ while True:
                 color_continuous_scale="Blues",
             )
             fig_city.update_layout(showlegend=False)
-            st.plotly_chart(fig_city, use_container_width=True)
+            st.plotly_chart(fig_city, width="stretch", key=f"city_{int(time.time())}")
 
         with chart_col2:
             # Trips by Vehicle Type
@@ -174,7 +174,9 @@ while True:
                 title="🚙 Trips by Vehicle Type",
                 hole=0.4,
             )
-            st.plotly_chart(fig_vehicle, use_container_width=True)
+            st.plotly_chart(
+                fig_vehicle, width="stretch", key=f"vehicle_{int(time.time())}"
+            )
 
         # Charts Row 2
         chart_col3, chart_col4 = st.columns(2)
@@ -198,7 +200,9 @@ while True:
                 color_continuous_scale="Greens",
             )
             fig_payment.update_layout(showlegend=False)
-            st.plotly_chart(fig_payment, use_container_width=True)
+            st.plotly_chart(
+                fig_payment, width="stretch", key=f"payment_{int(time.time())}"
+            )
 
         with chart_col4:
             # Trip Status Distribution
@@ -210,7 +214,9 @@ while True:
                 title="📊 Trip Status Distribution",
                 color_discrete_sequence=px.colors.qualitative.Set2,
             )
-            st.plotly_chart(fig_status, use_container_width=True)
+            st.plotly_chart(
+                fig_status, width="stretch", key=f"status_{int(time.time())}"
+            )
 
         # Charts Row 3
         chart_col5, chart_col6 = st.columns(2)
@@ -225,7 +231,11 @@ while True:
                 labels={"distance_km": "Distance (km)", "count": "Number of Trips"},
                 color_discrete_sequence=["#636EFA"],
             )
-            st.plotly_chart(fig_distance, use_container_width=True)
+            st.plotly_chart(
+                fig_distance,
+                width="stretch",
+                key=f"distance_{int(time.time())}",
+            )
 
         with chart_col6:
             # Top Routes
@@ -247,7 +257,9 @@ while True:
             fig_routes.update_layout(
                 showlegend=False, yaxis={"categoryorder": "total ascending"}
             )
-            st.plotly_chart(fig_routes, use_container_width=True)
+            st.plotly_chart(
+                fig_routes, width="stretch", key=f"routes_{int(time.time())}"
+            )
 
         # Time Series Chart (if enough data)
         if len(df_trips) > 10 and "timestamp" in df_trips.columns:
@@ -267,7 +279,11 @@ while True:
                     "timestamp": "Time",
                 },
             )
-            st.plotly_chart(fig_timeseries, use_container_width=True)
+            st.plotly_chart(
+                fig_timeseries,
+                width="stretch",
+                key=f"timeseries_{int(time.time())}",
+            )
 
         st.markdown("---")
         st.caption(
